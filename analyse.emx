@@ -80,7 +80,7 @@
               <children xmi:type="notation:BasicDecorationNode" xmi:id="_qEWWo2FDEe6yHN61_vybTA" type="Name"/>
               <children xmi:type="notation:BasicDecorationNode" xmi:id="_qEWWpGFDEe6yHN61_vybTA" type="Parent"/>
               <children xmi:type="notation:ListCompartment" xmi:id="_qEWWpWFDEe6yHN61_vybTA" visible="false" type="Extension_Points"/>
-              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_qEVvkWFDEe6yHN61_vybTA" x="6550" y="9555"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_qEVvkWFDEe6yHN61_vybTA" x="6235" y="9814"/>
             </children>
           </children>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_RTqgsWFCEe6yHN61_vybTA" x="9510" y="317" width="13092" height="14071"/>
