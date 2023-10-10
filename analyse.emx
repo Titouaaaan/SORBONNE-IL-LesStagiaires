@@ -882,7 +882,7 @@
         <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_FiZKsGFFEe6yHN61_vybTA" value="*"/>
         <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_FiYjoWFFEe6yHN61_vybTA"/>
       </ownedAttribute>
-      <ownedAttribute xmi:id="_Mfs7EGFFEe6yHN61_vybTA" name="section" visibility="private" type="_i2pkYGFEEe6yHN61_vybTA" association="_MfsUAGFFEe6yHN61_vybTA">
+      <ownedAttribute xmi:id="_Mfs7EGFFEe6yHN61_vybTA" name="section depart" visibility="private" type="_i2pkYGFEEe6yHN61_vybTA" association="_MfsUAGFFEe6yHN61_vybTA">
         <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_tZaykWHTEe6q6NCwrQ5pQA" value="*"/>
         <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_tZaykGHTEe6q6NCwrQ5pQA"/>
       </ownedAttribute>
@@ -890,9 +890,9 @@
         <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_MfuwQWFFEe6yHN61_vybTA" value="*"/>
         <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_MfuwQGFFEe6yHN61_vybTA"/>
       </ownedAttribute>
-      <ownedAttribute xmi:id="_21qDgGHTEe6q6NCwrQ5pQA" name="section" visibility="private" type="_i2pkYGFEEe6yHN61_vybTA" association="_21gSgGHTEe6q6NCwrQ5pQA">
-        <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_21qDgmHTEe6q6NCwrQ5pQA" value="2"/>
-        <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_21qDgWHTEe6q6NCwrQ5pQA" value="2"/>
+      <ownedAttribute xmi:id="_21qDgGHTEe6q6NCwrQ5pQA" name="section d'arrivée" visibility="private" type="_i2pkYGFEEe6yHN61_vybTA" association="_21gSgGHTEe6q6NCwrQ5pQA">
+        <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_21qDgmHTEe6q6NCwrQ5pQA" value="1"/>
+        <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_21qDgWHTEe6q6NCwrQ5pQA" value="1"/>
       </ownedAttribute>
     </packagedElement>
     <packagedElement xmi:type="uml:Association" xmi:id="_FiWucGFFEe6yHN61_vybTA" memberEnd="_FiXVgGFFEe6yHN61_vybTA _FiYjoGFFEe6yHN61_vybTA"/>
