@@ -929,7 +929,7 @@
     <packagedElement xmi:type="uml:Association" xmi:id="_fIhkAGHMEe6q6NCwrQ5pQA" memberEnd="_fI3iQGHMEe6q6NCwrQ5pQA _fI8awGHMEe6q6NCwrQ5pQA"/>
     <packagedElement xmi:type="uml:Association" xmi:id="_21gSgGHTEe6q6NCwrQ5pQA" memberEnd="_21qDgGHTEe6q6NCwrQ5pQA _21qDg2HTEe6q6NCwrQ5pQA"/>
     <packagedElement xmi:type="uml:Collaboration" xmi:id="_85m4QGbcEe6epZ5uV9UXXQ" name="Collaboration1">
-      <ownedBehavior xmi:type="uml:Interaction" xmi:id="_85sX0GbcEe6epZ5uV9UXXQ" name="Interaction1">
+      <ownedBehavior xmi:type="uml:Interaction" xmi:id="_85sX0GbcEe6epZ5uV9UXXQ" name="UC06 gerer une version de sortie">
         <eAnnotations xmi:id="_85x3YGbcEe6epZ5uV9UXXQ" source="uml2.diagrams">
           <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_85x3YWbcEe6epZ5uV9UXXQ" type="Sequence" element="_85sX0GbcEe6epZ5uV9UXXQ" name="diagramme de sequence UC06" measurementUnit="Himetric">
             <children xmi:type="umlnotation:UMLShape" xmi:id="_85x3YmbcEe6epZ5uV9UXXQ" element="_85sX0GbcEe6epZ5uV9UXXQ" fontName="Segoe UI" fontHeight="8" fillColor="16250871" transparency="0" lineColor="12632258" lineWidth="1" showStereotype="Label">
@@ -1061,7 +1061,7 @@
         </ownedConnector>
         <lifeline xmi:id="_F3CGQGbdEe6epZ5uV9UXXQ" name="auteur:auteur1" represents="_F3CGQWbdEe6epZ5uV9UXXQ" coveredBy="_TDxNUGbdEe6epZ5uV9UXXQ _ikskkGbdEe6epZ5uV9UXXQ _ikskkWbdEe6epZ5uV9UXXQ _ikskkmbdEe6epZ5uV9UXXQ _G1rDUGbeEe6epZ5uV9UXXQ _uFYkEWbeEe6epZ5uV9UXXQ _BaohgGbfEe6epZ5uV9UXXQ"/>
         <lifeline xmi:id="_Ln2OUGbdEe6epZ5uV9UXXQ" name="systeme:sysLDVH" represents="_Ln2OUWbdEe6epZ5uV9UXXQ" coveredBy="_biNZQGbdEe6epZ5uV9UXXQ _biP1gGbdEe6epZ5uV9UXXQ _biP1gWbdEe6epZ5uV9UXXQ _HfLTUGbeEe6epZ5uV9UXXQ _WwgvYGbeEe6epZ5uV9UXXQ _WwgvYWbeEe6epZ5uV9UXXQ _WwhWcGbeEe6epZ5uV9UXXQ _WwhWcmbeEe6epZ5uV9UXXQ _uFYkEGbeEe6epZ5uV9UXXQ _3-D5YWbeEe6epZ5uV9UXXQ _3-FHgGbeEe6epZ5uV9UXXQ _3-FukGbeEe6epZ5uV9UXXQ _3-FukWbeEe6epZ5uV9UXXQ _Ban6cGbfEe6epZ5uV9UXXQ"/>
-        <fragment xmi:type="uml:InteractionUse" xmi:id="_TDxNUGbdEe6epZ5uV9UXXQ" name="Unspecified Interaction Ref1" covered="_F3CGQGbdEe6epZ5uV9UXXQ" refersTo="_TDybcGbdEe6epZ5uV9UXXQ"/>
+        <fragment xmi:type="uml:InteractionUse" xmi:id="_TDxNUGbdEe6epZ5uV9UXXQ" name="UC06 gerer une version de sortie" covered="_F3CGQGbdEe6epZ5uV9UXXQ"/>
         <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_biNZQGbdEe6epZ5uV9UXXQ" covered="_Ln2OUGbdEe6epZ5uV9UXXQ" message="_biK9AGbdEe6epZ5uV9UXXQ"/>
         <fragment xmi:type="uml:BehaviorExecutionSpecification" xmi:id="_biP1gGbdEe6epZ5uV9UXXQ" covered="_Ln2OUGbdEe6epZ5uV9UXXQ" start="_biNZQGbdEe6epZ5uV9UXXQ" finish="_biP1gWbdEe6epZ5uV9UXXQ"/>
         <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_ikskkGbdEe6epZ5uV9UXXQ" covered="_F3CGQGbdEe6epZ5uV9UXXQ" message="_ikr9gGbdEe6epZ5uV9UXXQ"/>
@@ -1089,18 +1089,6 @@
         <message xmi:id="_uFZLIGbeEe6epZ5uV9UXXQ" name="msg(&quot;pdf telecharge dans dossierXX&quot;)" messageSort="createMessage" receiveEvent="_uFYkEWbeEe6epZ5uV9UXXQ" sendEvent="_uFYkEGbeEe6epZ5uV9UXXQ" connector="_HfNvkGbeEe6epZ5uV9UXXQ"/>
         <message xmi:id="_3-D5YGbeEe6epZ5uV9UXXQ" name="generateHTML()" messageSort="asynchCall" receiveEvent="_3-FHgGbeEe6epZ5uV9UXXQ" sendEvent="_3-D5YWbeEe6epZ5uV9UXXQ" connector="_Wwh9gGbeEe6epZ5uV9UXXQ"/>
         <message xmi:id="_BaohgWbfEe6epZ5uV9UXXQ" name="msg(&quot;jeu HTML telecharge dans dossierXX&quot;)" messageSort="createMessage" receiveEvent="_BaohgGbfEe6epZ5uV9UXXQ" sendEvent="_Ban6cGbfEe6epZ5uV9UXXQ" connector="_HfNvkGbeEe6epZ5uV9UXXQ"/>
-      </ownedBehavior>
-      <ownedBehavior xmi:type="uml:Interaction" xmi:id="_TDybcGbdEe6epZ5uV9UXXQ" name="UC06: gerer une version de sortie">
-        <eAnnotations xmi:id="_TD0QoGbdEe6epZ5uV9UXXQ" source="uml2.diagrams">
-          <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_TD0QoWbdEe6epZ5uV9UXXQ" type="Sequence" element="_TDybcGbdEe6epZ5uV9UXXQ" name="SequenceDiagram1" measurementUnit="Himetric">
-            <children xmi:type="umlnotation:UMLShape" xmi:id="_TD0QombdEe6epZ5uV9UXXQ" element="_TDybcGbdEe6epZ5uV9UXXQ" fontName="Segoe UI" fontHeight="8" fillColor="16250871" transparency="0" lineColor="12632258" lineWidth="1" showStereotype="Label">
-              <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_TD0Qo2bdEe6epZ5uV9UXXQ" type="interaction_compartment"/>
-              <children xmi:type="notation:BasicDecorationNode" xmi:id="_TD0QpGbdEe6epZ5uV9UXXQ" type="Name"/>
-              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_TD0QpWbdEe6epZ5uV9UXXQ" x="793" y="793"/>
-            </children>
-          </contents>
-        </eAnnotations>
-        <lifeline xmi:id="_TDzCgGbdEe6epZ5uV9UXXQ" represents="_F3CGQWbdEe6epZ5uV9UXXQ"/>
       </ownedBehavior>
       <ownedAttribute xmi:id="_F3CGQWbdEe6epZ5uV9UXXQ" name="auteur:auteur1" type="_EUTIMGbdEe6epZ5uV9UXXQ"/>
       <ownedAttribute xmi:id="_Ln2OUWbdEe6epZ5uV9UXXQ" name="systeme:sysLDVH" type="_Jj5ZkGbdEe6epZ5uV9UXXQ"/>
