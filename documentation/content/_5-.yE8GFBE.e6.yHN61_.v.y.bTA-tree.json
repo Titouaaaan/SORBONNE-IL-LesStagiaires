@@ -7,17 +7,22 @@
             title: 'Diagrams',
             top: true,
             id: '_DIAGRAMS_ROOT_NODE_',
-            icon: 'icon1260573765',
+            icon: 'icon-117560486',
             children: [
                 {_reference: '_.aLW.w.gG.b.cE.e6.e.pZ5.uV9UXXQ' },
                 {_reference: '_PHY2YGFCE.e6.yHN61_.v.y.bTA' },
                 {_reference: '_85.x3YW.b.cE.e6.e.pZ5.uV9UXXQ' },
+                {_reference: '_.zIM64W.wGE.e6.o.j.q.j6.u.q2.iP.w' },
+                {_reference: '_H8U.qEW.wHE.e6.o.j.q.j6.u.q2.iP.w' },
+                {_reference: '_.uKK.o.sW.wIE.e6.o.j.q.j6.u.q2.iP.w' },
                 {_reference: '_.zO.m2U.m.dPE.e68.s.r7.l.o0BFUQ' },
                 {_reference: '_S.x4P0.m.dQE.e68.s.r7.l.o0BFUQ' },
                 {_reference: '_2J.yK4W.t.pE.e6.e.w7.h4.z4S.b.nA' },
                 {_reference: '_-VGU.k.m.t.rE.e6.e.w7.h4.z4S.b.nA' },
                 {_reference: '_O-.d6.kW.t.sE.e6.e.w7.h4.z4S.b.nA' },
                 {_reference: '_0.lYR.g.m.t.sE.e6.e.w7.h4.z4S.b.nA' },
+                {_reference: '_.p.hPZMW.t.tE.e6.e.w7.h4.z4S.b.nA' },
+                {_reference: '_73BM.gW.wDE.e6.o.j.q.j6.u.q2.iP.w' },
                 {_reference: '_6.z.e.mYGFDE.e6.yHN61_.v.y.bTA' },
                 {_reference: '_5-.yE8.mFBE.e6.yHN61_.v.y.bTA' }
             ]
@@ -26,84 +31,119 @@
             title: 'analyse::Main',
             id: '_5-.yE8.mFBE.e6.yHN61_.v.y.bTA',
             object: '_5-.yE8.mFBE.e6.yHN61_.v.y.bTA-content.html',
-            icon: 'icon2072445092'
+            icon: 'icon1835862397'
         },
 	
         {
             title: 'analyse::cas d\'utilisation',
             id: '_PHY2YGFCE.e6.yHN61_.v.y.bTA',
             object: '_PHY2YGFCE.e6.yHN61_.v.y.bTA-content.html',
-            icon: 'icon-1837482536'
+            icon: 'icon-931837311'
         },
 	
         {
             title: 'analyse::diagramme de classe',
             id: '_6.z.e.mYGFDE.e6.yHN61_.v.y.bTA',
             object: '_6.z.e.mYGFDE.e6.yHN61_.v.y.bTA-content.html',
-            icon: 'icon-309237609'
+            icon: 'icon598526962'
         },
 	
         {
             title: 'analyse::Analyse::gerer version de sortie::UsecaseDiagram1',
             id: '_.aLW.w.gG.b.cE.e6.e.pZ5.uV9UXXQ',
             object: '_.aLW.w.gG.b.cE.e6.e.pZ5.uV9UXXQ-content.html',
-            icon: 'icon-1837482536'
+            icon: 'icon-931837311'
         },
 	
         {
             title: 'analyse::Collaboration1::UC06 SN::UC06 SN scenario nominal',
             id: '_85.x3YW.b.cE.e6.e.pZ5.uV9UXXQ',
             object: '_85.x3YW.b.cE.e6.e.pZ5.uV9UXXQ-content.html',
-            icon: 'icon446937342'
+            icon: 'icon2044757453'
         },
 	
         {
             title: 'analyse::Collaboration2::UC06 A1::UC06 A1 PDFonly',
             id: '_.zO.m2U.m.dPE.e68.s.r7.l.o0BFUQ',
             object: '_.zO.m2U.m.dPE.e68.s.r7.l.o0BFUQ-content.html',
-            icon: 'icon446937342'
+            icon: 'icon2044757453'
         },
 	
         {
             title: 'analyse::Collaboration3::UC06 A2::UC06A2 HTMLonly',
             id: '_S.x4P0.m.dQE.e68.s.r7.l.o0BFUQ',
             object: '_S.x4P0.m.dQE.e68.s.r7.l.o0BFUQ-content.html',
-            icon: 'icon446937342'
+            icon: 'icon2044757453'
         },
 	
         {
             title: 'analyse::Collaboration4::UC04SN::UC04 SN scenario nominal',
             id: '_2J.yK4W.t.pE.e6.e.w7.h4.z4S.b.nA',
             object: '_2J.yK4W.t.pE.e6.e.w7.h4.z4S.b.nA-content.html',
-            icon: 'icon446937342'
+            icon: 'icon2044757453'
         },
 	
         {
             title: 'analyse::Collaboration5::UC04ALT1::UC04ALT1 supprimmer objet',
             id: '_-VGU.k.m.t.rE.e6.e.w7.h4.z4S.b.nA',
             object: '_-VGU.k.m.t.rE.e6.e.w7.h4.z4S.b.nA-content.html',
-            icon: 'icon446937342'
+            icon: 'icon2044757453'
         },
 	
         {
             title: 'analyse::Collaboration6::UC04ALT2::UC04ALT2 modifier objet',
             id: '_O-.d6.kW.t.sE.e6.e.w7.h4.z4S.b.nA',
             object: '_O-.d6.kW.t.sE.e6.e.w7.h4.z4S.b.nA-content.html',
-            icon: 'icon446937342'
+            icon: 'icon2044757453'
         },
 	
         {
             title: 'analyse::Collaboration7::UC04E1::UC04E1 False ajout',
             id: '_0.lYR.g.m.t.sE.e6.e.w7.h4.z4S.b.nA',
             object: '_0.lYR.g.m.t.sE.e6.e.w7.h4.z4S.b.nA-content.html',
-            icon: 'icon446937342'
+            icon: 'icon2044757453'
+        },
+	
+        {
+            title: 'analyse::Collaboration8::UC02SN::UC02 SN scenario nominal',
+            id: '_.p.hPZMW.t.tE.e6.e.w7.h4.z4S.b.nA',
+            object: '_.p.hPZMW.t.tE.e6.e.w7.h4.z4S.b.nA-content.html',
+            icon: 'icon2044757453'
+        },
+	
+        {
+            title: 'analyse::Collaboration9::UC02ALT1::UC02 ALT1 modifier section',
+            id: '_73BM.gW.wDE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_73BM.gW.wDE.e6.o.j.q.j6.u.q2.iP.w-content.html',
+            icon: 'icon2044757453'
+        },
+	
+        {
+            title: 'analyse::Collaboration10::UC02ALT2::UC02 ALT2 supprimer section',
+            id: '_.zIM64W.wGE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_.zIM64W.wGE.e6.o.j.q.j6.u.q2.iP.w-content.html',
+            icon: 'icon2044757453'
+        },
+	
+        {
+            title: 'analyse::Collaboration11::UC02EX1::UC02 EX1 aucune section a supp',
+            id: '_H8U.qEW.wHE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_H8U.qEW.wHE.e6.o.j.q.j6.u.q2.iP.w-content.html',
+            icon: 'icon2044757453'
+        },
+	
+        {
+            title: 'analyse::Collaboration12::UC02EX2::UC02 EX2 id non valable',
+            id: '_.uKK.o.sW.wIE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_.uKK.o.sW.wIE.e6.o.j.q.j6.u.q2.iP.w-content.html',
+            icon: 'icon2044757453'
         },
 	
         {
             title: 'Models',
             top: true,
             id: '_MODELS_ROOT_NODE_',
-            icon: 'icon1260573765',
+            icon: 'icon-117560486',
             children: [
                 {_reference: '_5-.yE8GFBE.e6.yHN61_.v.y.bTA' }
             ]
@@ -113,7 +153,7 @@
             title: 'analyse',
             id: '_5-.yE8GFBE.e6.yHN61_.v.y.bTA',
             object: '_5-.yE8GFBE.e6.yHN61_.v.y.bTA-top-summary.html',
-            icon: 'icon1260573765',
+            icon: 'icon-117560486',
             children: [
                 {_reference: '_.n.p.eFEGFCE.e6.yHN61_.v.y.bTA' },
                 {_reference: '_.vPU.cIGFCE.e6.yHN61_.v.y.bTA' },
@@ -135,17 +175,25 @@
                 {_reference: '_4.k9-.oGHLE.e6.q6NC.w.rQ5.pQA' },
                 {_reference: '_RT.g.v.sGFCE.e6.yHN61_.v.y.bTA' },
                 {_reference: '_Y.s.d.oUGFEE.e6.yHN61_.v.y.bTA' },
+                {_reference: '_.w.qFEIG.t.tE.e6.e.w7.h4.z4S.b.nA' },
+                {_reference: '_GG.m3IG.t.uE.e6.e.w7.h4.z4S.b.nA' },
                 {_reference: '_.bTE.wIGFCE.e6.yHN61_.v.y.bTA' },
                 {_reference: '_.q.aY.vEG.t.qE.e6.e.w7.h4.z4S.b.nA' },
                 {_reference: '_EUTIMG.b.dE.e6.e.pZ5.uV9UXXQ' },
                 {_reference: '_85.m4QG.b.cE.e6.e.pZ5.uV9UXXQ' },
+                {_reference: '_.zIC.i0G.wGE.e6.o.j.q.j6.u.q2.iP.w' },
+                {_reference: '_H8P.x.kG.wHE.e6.o.j.q.j6.u.q2.iP.w' },
+                {_reference: '_.uKF.wMG.wIE.e6.o.j.q.j6.u.q2.iP.w' },
                 {_reference: '_.zO.c.eQG.dPE.e68.s.r7.l.o0BFUQ' },
                 {_reference: '_S.x.y.wQG.dQE.e68.s.r7.l.o0BFUQ' },
                 {_reference: '_2I0.h.kG.t.pE.e6.e.w7.h4.z4S.b.nA' },
                 {_reference: '_-U_.m4G.t.rE.e6.e.w7.h4.z4S.b.nA' },
                 {_reference: '_O-Y.bAG.t.sE.e6.e.w7.h4.z4S.b.nA' },
                 {_reference: '_0.lXDYG.t.sE.e6.e.w7.h4.z4S.b.nA' },
+                {_reference: '_.p.g-T.cG.t.tE.e6.e.w7.h4.z4S.b.nA' },
+                {_reference: '_71S.uMG.wDE.e6.o.j.q.j6.u.q2.iP.w' },
                 {_reference: '_.e7.b2.kGFFE.e6.yHN61_.v.y.bTA' },
+                {_reference: '_.iU.i.e.gG.wIE.e6.o.j.q.j6.u.q2.iP.w' },
                 {_reference: '_D.vL.g.oGFFE.e6.yHN61_.v.y.bTA' },
                 {_reference: '_.e.aKM.c2.dOE.e68.s.r7.l.o0BFUQ' },
                 {_reference: '_O.b.p.y.sG.b.dE.e6.e.pZ5.uV9UXXQ' },
@@ -154,6 +202,7 @@
                 {_reference: '_.i2.p.kYGFEE.e6.yHN61_.v.y.bTA' },
                 {_reference: '_G6R3UGHME.e6.q6NC.w.rQ5.pQA' },
                 {_reference: '_IAY.j.wGHME.e6.q6NC.w.rQ5.pQA' },
+                {_reference: '_RPGO.gG.t.uE.e6.e.w7.h4.z4S.b.nA' },
                 {_reference: '_.uU4O.sG.t.qE.e6.e.w7.h4.z4S.b.nA' },
                 {_reference: '_J.j5Z.kG.b.dE.e6.e.pZ5.uV9UXXQ' },
                 {_reference: '_.xHIK8GFFE.e6.yHN61_.v.y.bTA' }
@@ -164,7 +213,7 @@
             title: 'Analyse',
             id: '_RT.g.v.sGFCE.e6.yHN61_.v.y.bTA',
             object: '_RT.g.v.sGFCE.e6.yHN61_.v.y.bTA-content.html',
-            icon: 'icon-1284278420',
+            icon: 'icon1400442619',
             children: [
                 {_reference: '_.nA.wC.wGFDE.e6.yHN61_.v.y.bTA' },
                 {_reference: '_KU2.fAGFDE.e6.yHN61_.v.y.bTA' },
@@ -180,42 +229,42 @@
             title: 'gerer un livre',
             id: '_.jI.d_EGFCE.e6.yHN61_.v.y.bTA',
             object: '_.jI.d_EGFCE.e6.yHN61_.v.y.bTA-content.html',
-            icon: 'icon-106310410'
+            icon: 'icon887676790'
         }
 		,
         {
             title: 'sauvegarder livre',
             id: '_.sPAF.wGFCE.e6.yHN61_.v.y.bTA',
             object: '_.sPAF.wGFCE.e6.yHN61_.v.y.bTA-content.html',
-            icon: 'icon-106310410'
+            icon: 'icon887676790'
         }
 		,
         {
             title: 'gerer une section',
             id: '_G_.iJAGFDE.e6.yHN61_.v.y.bTA',
             object: '_G_.iJAGFDE.e6.yHN61_.v.y.bTA-content.html',
-            icon: 'icon-106310410'
+            icon: 'icon887676790'
         }
 		,
         {
             title: 'gerer enchainement',
             id: '_KU2.fAGFDE.e6.yHN61_.v.y.bTA',
             object: '_KU2.fAGFDE.e6.yHN61_.v.y.bTA-content.html',
-            icon: 'icon-106310410'
+            icon: 'icon887676790'
         }
 		,
         {
             title: 'gerer objets',
             id: '_.k.dB.h.wGFDE.e6.yHN61_.v.y.bTA',
             object: '_.k.dB.h.wGFDE.e6.yHN61_.v.y.bTA-content.html',
-            icon: 'icon-106310410'
+            icon: 'icon887676790'
         }
 		,
         {
             title: 'analyser graphe',
             id: '_.nA.wC.wGFDE.e6.yHN61_.v.y.bTA',
             object: '_.nA.wC.wGFDE.e6.yHN61_.v.y.bTA-content.html',
-            icon: 'icon-106310410',
+            icon: 'icon887676790',
             children: [
                 {_reference: '_.u0.zN4GFDE.e6.yHN61_.v.y.bTA' }
             ]
@@ -225,28 +274,28 @@
             title: '',
             id: '_.u0.zN4GFDE.e6.yHN61_.v.y.bTA',
             object: '_.u0.zN4GFDE.e6.yHN61_.v.y.bTA-content.html',
-            icon: 'icon677352318'
+            icon: 'icon-1708150257'
         }
 		,
         {
             title: 'gerer version de sortie',
             id: '_.qET6YGFDE.e6.yHN61_.v.y.bTA',
             object: '_.qET6YGFDE.e6.yHN61_.v.y.bTA-content.html',
-            icon: 'icon-106310410'
+            icon: 'icon887676790'
         }
 		,
         {
             title: 'Auteur',
             id: '_.bTE.wIGFCE.e6.yHN61_.v.y.bTA',
             object: '_.bTE.wIGFCE.e6.yHN61_.v.y.bTA-content.html',
-            icon: 'icon400455054'
+            icon: 'icon-2119003576'
         }
 		,
         {
             title: '',
             id: '_.n.p.eFEGFCE.e6.yHN61_.v.y.bTA',
             object: '_.n.p.eFEGFCE.e6.yHN61_.v.y.bTA-content.html',
-            icon: 'icon-1314875762',
+            icon: 'icon-2065681187',
             children: [
                 {_reference: '_.n.p.hIYGFCE.e6.yHN61_.v.y.bTA' },
                 {_reference: '_.n.p.k.y.wGFCE.e6.yHN61_.v.y.bTA' }
@@ -257,21 +306,21 @@
             title: 'auteur',
             id: '_.n.p.hIYGFCE.e6.yHN61_.v.y.bTA',
             object: '_.n.p.eFEGFCE.e6.yHN61_.v.y.bTA-content.html#_.n.p.hIYGFCE.e6.yHN61_.v.y.bTA',
-            icon: 'icon-1363815533'
+            icon: 'icon-1319995963'
         }
 		,
         {
             title: 'auteur2',
             id: '_.n.p.k.y.wGFCE.e6.yHN61_.v.y.bTA',
             object: '_.n.p.eFEGFCE.e6.yHN61_.v.y.bTA-content.html#_.n.p.k.y.wGFCE.e6.yHN61_.v.y.bTA',
-            icon: 'icon-1363815533'
+            icon: 'icon-1319995963'
         }
 		,
         {
             title: '',
             id: '_.vPU.cIGFCE.e6.yHN61_.v.y.bTA',
             object: '_.vPU.cIGFCE.e6.yHN61_.v.y.bTA-content.html',
-            icon: 'icon-1314875762',
+            icon: 'icon-2065681187',
             children: [
                 {_reference: '_.vPVDMGFCE.e6.yHN61_.v.y.bTA' },
                 {_reference: '_.vPW4YGFCE.e6.yHN61_.v.y.bTA' }
@@ -282,21 +331,21 @@
             title: 'auteur',
             id: '_.vPVDMGFCE.e6.yHN61_.v.y.bTA',
             object: '_.vPU.cIGFCE.e6.yHN61_.v.y.bTA-content.html#_.vPVDMGFCE.e6.yHN61_.v.y.bTA',
-            icon: 'icon-1363815533'
+            icon: 'icon-1319995963'
         }
 		,
         {
             title: 'auteur2',
             id: '_.vPW4YGFCE.e6.yHN61_.v.y.bTA',
             object: '_.vPU.cIGFCE.e6.yHN61_.v.y.bTA-content.html#_.vPW4YGFCE.e6.yHN61_.v.y.bTA',
-            icon: 'icon-1363815533'
+            icon: 'icon-1319995963'
         }
 		,
         {
             title: '',
             id: '_IOY.h.wGFDE.e6.yHN61_.v.y.bTA',
             object: '_IOY.h.wGFDE.e6.yHN61_.v.y.bTA-content.html',
-            icon: 'icon-1314875762',
+            icon: 'icon-2065681187',
             children: [
                 {_reference: '_IOZI0GFDE.e6.yHN61_.v.y.bTA' },
                 {_reference: '_IO.a-AGFDE.e6.yHN61_.v.y.bTA' }
@@ -307,21 +356,21 @@
             title: 'auteur',
             id: '_IOZI0GFDE.e6.yHN61_.v.y.bTA',
             object: '_IOY.h.wGFDE.e6.yHN61_.v.y.bTA-content.html#_IOZI0GFDE.e6.yHN61_.v.y.bTA',
-            icon: 'icon-1363815533'
+            icon: 'icon-1319995963'
         }
 		,
         {
             title: 'auteur2',
             id: '_IO.a-AGFDE.e6.yHN61_.v.y.bTA',
             object: '_IOY.h.wGFDE.e6.yHN61_.v.y.bTA-content.html#_IO.a-AGFDE.e6.yHN61_.v.y.bTA',
-            icon: 'icon-1363815533'
+            icon: 'icon-1319995963'
         }
 		,
         {
             title: '',
             id: '_L.x.j.t.kGFDE.e6.yHN61_.v.y.bTA',
             object: '_L.x.j.t.kGFDE.e6.yHN61_.v.y.bTA-content.html',
-            icon: 'icon-1314875762',
+            icon: 'icon-2065681187',
             children: [
                 {_reference: '_L.x.kU.oGFDE.e6.yHN61_.v.y.bTA' },
                 {_reference: '_L.x.l.i.wGFDE.e6.yHN61_.v.y.bTA' }
@@ -332,21 +381,21 @@
             title: 'auteur',
             id: '_L.x.kU.oGFDE.e6.yHN61_.v.y.bTA',
             object: '_L.x.j.t.kGFDE.e6.yHN61_.v.y.bTA-content.html#_L.x.kU.oGFDE.e6.yHN61_.v.y.bTA',
-            icon: 'icon-1363815533'
+            icon: 'icon-1319995963'
         }
 		,
         {
             title: 'auteur2',
             id: '_L.x.l.i.wGFDE.e6.yHN61_.v.y.bTA',
             object: '_L.x.j.t.kGFDE.e6.yHN61_.v.y.bTA-content.html#_L.x.l.i.wGFDE.e6.yHN61_.v.y.bTA',
-            icon: 'icon-1363815533'
+            icon: 'icon-1319995963'
         }
 		,
         {
             title: '',
             id: '_.l.tRB.oGFDE.e6.yHN61_.v.y.bTA',
             object: '_.l.tRB.oGFDE.e6.yHN61_.v.y.bTA-content.html',
-            icon: 'icon-1314875762',
+            icon: 'icon-2065681187',
             children: [
                 {_reference: '_.l.tR.o.sGFDE.e6.yHN61_.v.y.bTA' },
                 {_reference: '_.l.tS20GFDE.e6.yHN61_.v.y.bTA' }
@@ -357,21 +406,21 @@
             title: 'auteur',
             id: '_.l.tR.o.sGFDE.e6.yHN61_.v.y.bTA',
             object: '_.l.tRB.oGFDE.e6.yHN61_.v.y.bTA-content.html#_.l.tR.o.sGFDE.e6.yHN61_.v.y.bTA',
-            icon: 'icon-1363815533'
+            icon: 'icon-1319995963'
         }
 		,
         {
             title: 'auteur2',
             id: '_.l.tS20GFDE.e6.yHN61_.v.y.bTA',
             object: '_.l.tRB.oGFDE.e6.yHN61_.v.y.bTA-content.html#_.l.tS20GFDE.e6.yHN61_.v.y.bTA',
-            icon: 'icon-1363815533'
+            icon: 'icon-1319995963'
         }
 		,
         {
             title: '',
             id: '_.oI.u-.gGFDE.e6.yHN61_.v.y.bTA',
             object: '_.oI.u-.gGFDE.e6.yHN61_.v.y.bTA-content.html',
-            icon: 'icon-1314875762',
+            icon: 'icon-2065681187',
             children: [
                 {_reference: '_.oI.v.l.kGFDE.e6.yHN61_.v.y.bTA' },
                 {_reference: '_.oI.w.z.sGFDE.e6.yHN61_.v.y.bTA' }
@@ -382,21 +431,21 @@
             title: 'auteur',
             id: '_.oI.v.l.kGFDE.e6.yHN61_.v.y.bTA',
             object: '_.oI.u-.gGFDE.e6.yHN61_.v.y.bTA-content.html#_.oI.v.l.kGFDE.e6.yHN61_.v.y.bTA',
-            icon: 'icon-1363815533'
+            icon: 'icon-1319995963'
         }
 		,
         {
             title: 'auteur2',
             id: '_.oI.w.z.sGFDE.e6.yHN61_.v.y.bTA',
             object: '_.oI.u-.gGFDE.e6.yHN61_.v.y.bTA-content.html#_.oI.w.z.sGFDE.e6.yHN61_.v.y.bTA',
-            icon: 'icon-1363815533'
+            icon: 'icon-1319995963'
         }
 		,
         {
             title: '',
             id: '_.rTS2AGFDE.e6.yHN61_.v.y.bTA',
             object: '_.rTS2AGFDE.e6.yHN61_.v.y.bTA-content.html',
-            icon: 'icon-1314875762',
+            icon: 'icon-2065681187',
             children: [
                 {_reference: '_.rTUEIGFDE.e6.yHN61_.v.y.bTA' },
                 {_reference: '_.rTU.rMGFDE.e6.yHN61_.v.y.bTA' }
@@ -407,21 +456,21 @@
             title: 'auteur',
             id: '_.rTUEIGFDE.e6.yHN61_.v.y.bTA',
             object: '_.rTS2AGFDE.e6.yHN61_.v.y.bTA-content.html#_.rTUEIGFDE.e6.yHN61_.v.y.bTA',
-            icon: 'icon-1363815533'
+            icon: 'icon-1319995963'
         }
 		,
         {
             title: 'auteur2',
             id: '_.rTU.rMGFDE.e6.yHN61_.v.y.bTA',
             object: '_.rTS2AGFDE.e6.yHN61_.v.y.bTA-content.html#_.rTU.rMGFDE.e6.yHN61_.v.y.bTA',
-            icon: 'icon-1363815533'
+            icon: 'icon-1319995963'
         }
 		,
         {
             title: 'auteur',
             id: '_Y.s.d.oUGFEE.e6.yHN61_.v.y.bTA',
             object: '_Y.s.d.oUGFEE.e6.yHN61_.v.y.bTA-content.html',
-            icon: 'icon122181886',
+            icon: 'icon-684841006',
             children: [
                 {_reference: '_.a.oAH8GFEE.e6.yHN61_.v.y.bTA' }
             ]
@@ -431,14 +480,14 @@
             title: 'livre',
             id: '_.a.oAH8GFEE.e6.yHN61_.v.y.bTA',
             object: '_Y.s.d.oUGFEE.e6.yHN61_.v.y.bTA-content.html#_.a.oAH8GFEE.e6.yHN61_.v.y.bTA',
-            icon: 'icon-1363815533'
+            icon: 'icon-1319995963'
         }
 		,
         {
             title: 'livre',
             id: '_Z.o.yG.oGFEE.e6.yHN61_.v.y.bTA',
             object: '_Z.o.yG.oGFEE.e6.yHN61_.v.y.bTA-content.html',
-            icon: 'icon122181886',
+            icon: 'icon-684841006',
             children: [
                 {_reference: '_.a.oA.vAWFEE.e6.yHN61_.v.y.bTA' },
                 {_reference: '_ZE7.p4WHME.e6.q6NC.w.rQ5.pQA' },
@@ -452,35 +501,35 @@
             title: 'auteur',
             id: '_.a.oA.vAWFEE.e6.yHN61_.v.y.bTA',
             object: '_Z.o.yG.oGFEE.e6.yHN61_.v.y.bTA-content.html#_.a.oA.vAWFEE.e6.yHN61_.v.y.bTA',
-            icon: 'icon-1363815533'
+            icon: 'icon-1319995963'
         }
 		,
         {
             title: 'section',
             id: '_.j.p.a.eEGFEE.e6.yHN61_.v.y.bTA',
             object: '_Z.o.yG.oGFEE.e6.yHN61_.v.y.bTA-content.html#_.j.p.a.eEGFEE.e6.yHN61_.v.y.bTA',
-            icon: 'icon-1363815533'
+            icon: 'icon-1319995963'
         }
 		,
         {
             title: 'objet(s)',
             id: '_.qB.i.d.wGFEE.e6.yHN61_.v.y.bTA',
             object: '_Z.o.yG.oGFEE.e6.yHN61_.v.y.bTA-content.html#_.qB.i.d.wGFEE.e6.yHN61_.v.y.bTA',
-            icon: 'icon-1363815533'
+            icon: 'icon-1319995963'
         }
 		,
         {
             title: 'debut du livre',
             id: '_ZE7.p4WHME.e6.q6NC.w.rQ5.pQA',
             object: '_Z.o.yG.oGFEE.e6.yHN61_.v.y.bTA-content.html#_ZE7.p4WHME.e6.q6NC.w.rQ5.pQA',
-            icon: 'icon-1363815533'
+            icon: 'icon-1319995963'
         }
 		,
         {
             title: 'fin du livr',
             id: '_.fI3.iQGHME.e6.q6NC.w.rQ5.pQA',
             object: '_Z.o.yG.oGFEE.e6.yHN61_.v.y.bTA-content.html#_.fI3.iQGHME.e6.q6NC.w.rQ5.pQA',
-            icon: 'icon-1363815533',
+            icon: 'icon-1319995963',
             children: [
                 {_reference: '_8WCAAGHME.e6.q6NC.w.rQ5.pQA' },
                 {_reference: '_8V8.g.cGHME.e6.q6NC.w.rQ5.pQA' }
@@ -491,28 +540,28 @@
             title: '',
             id: '_8WCAAGHME.e6.q6NC.w.rQ5.pQA',
             object: '_8WCAAGHME.e6.q6NC.w.rQ5.pQA-content.html',
-            icon: 'icon1475530572'
+            icon: 'icon1757563870'
         }
 		,
         {
             title: '',
             id: '_8V8.g.cGHME.e6.q6NC.w.rQ5.pQA',
             object: '_8V8.g.cGHME.e6.q6NC.w.rQ5.pQA-content.html',
-            icon: 'icon1475530572'
+            icon: 'icon1757563870'
         }
 		,
         {
             title: '',
             id: '_.a.n_.g4GFEE.e6.yHN61_.v.y.bTA',
             object: '_.a.n_.g4GFEE.e6.yHN61_.v.y.bTA-content.html',
-            icon: 'icon-1314875762'
+            icon: 'icon-2065681187'
         }
 		,
         {
             title: 'section',
             id: '_.i2.p.kYGFEE.e6.yHN61_.v.y.bTA',
             object: '_.i2.p.kYGFEE.e6.yHN61_.v.y.bTA-content.html',
-            icon: 'icon122181886',
+            icon: 'icon-684841006',
             children: [
                 {_reference: '_21.qD.g2HTE.e6.q6NC.w.rQ5.pQA' },
                 {_reference: '_.j.p.bFIWFEE.e6.yHN61_.v.y.bTA' },
@@ -525,42 +574,42 @@
             title: 'livre',
             id: '_.j.p.bFIWFEE.e6.yHN61_.v.y.bTA',
             object: '_.i2.p.kYGFEE.e6.yHN61_.v.y.bTA-content.html#_.j.p.bFIWFEE.e6.yHN61_.v.y.bTA',
-            icon: 'icon-1363815533'
+            icon: 'icon-1319995963'
         }
 		,
         {
             title: 'objet(s)',
             id: '_4.i.dJ.gGFEE.e6.yHN61_.v.y.bTA',
             object: '_.i2.p.kYGFEE.e6.yHN61_.v.y.bTA-content.html#_4.i.dJ.gGFEE.e6.yHN61_.v.y.bTA',
-            icon: 'icon-1363815533'
+            icon: 'icon-1319995963'
         }
 		,
         {
             title: 'sectionType',
             id: '_3.k.s.rUGFFE.e6.yHN61_.v.y.bTA',
             object: '_.i2.p.kYGFEE.e6.yHN61_.v.y.bTA-content.html#_3.k.s.rUGFFE.e6.yHN61_.v.y.bTA',
-            icon: 'icon-1363815533'
+            icon: 'icon-1319995963'
         }
 		,
         {
             title: 'enchaine to section',
             id: '_21.qD.g2HTE.e6.q6NC.w.rQ5.pQA',
             object: '_.i2.p.kYGFEE.e6.yHN61_.v.y.bTA-content.html#_21.qD.g2HTE.e6.q6NC.w.rQ5.pQA',
-            icon: 'icon-1363815533'
+            icon: 'icon-1319995963'
         }
 		,
         {
             title: '',
             id: '_.j.pZP8GFEE.e6.yHN61_.v.y.bTA',
             object: '_.j.pZP8GFEE.e6.yHN61_.v.y.bTA-content.html',
-            icon: 'icon-1314875762'
+            icon: 'icon-2065681187'
         }
 		,
         {
             title: 'objet',
             id: '_.pC.r.o0GFEE.e6.yHN61_.v.y.bTA',
             object: '_.pC.r.o0GFEE.e6.yHN61_.v.y.bTA-content.html',
-            icon: 'icon122181886',
+            icon: 'icon-684841006',
             children: [
                 {_reference: '_F.iXV.gGFFE.e6.yHN61_.v.y.bTA' },
                 {_reference: '_.qB.h2.sGFEE.e6.yHN61_.v.y.bTA' },
@@ -572,42 +621,42 @@
             title: 'livre',
             id: '_.qB.h2.sGFEE.e6.yHN61_.v.y.bTA',
             object: '_.pC.r.o0GFEE.e6.yHN61_.v.y.bTA-content.html#_.qB.h2.sGFEE.e6.yHN61_.v.y.bTA',
-            icon: 'icon-1363815533'
+            icon: 'icon-1319995963'
         }
 		,
         {
             title: 'section(s)',
             id: '_4.i.eX.oGFEE.e6.yHN61_.v.y.bTA',
             object: '_.pC.r.o0GFEE.e6.yHN61_.v.y.bTA-content.html#_4.i.eX.oGFEE.e6.yHN61_.v.y.bTA',
-            icon: 'icon-1363815533'
+            icon: 'icon-1319995963'
         }
 		,
         {
             title: 'echainement(s)',
             id: '_F.iXV.gGFFE.e6.yHN61_.v.y.bTA',
             object: '_.pC.r.o0GFEE.e6.yHN61_.v.y.bTA-content.html#_F.iXV.gGFFE.e6.yHN61_.v.y.bTA',
-            icon: 'icon-1363815533'
+            icon: 'icon-1319995963'
         }
 		,
         {
             title: '',
             id: '_.qB.hP.oGFEE.e6.yHN61_.v.y.bTA',
             object: '_.qB.hP.oGFEE.e6.yHN61_.v.y.bTA-content.html',
-            icon: 'icon-1314875762'
+            icon: 'icon-2065681187'
         }
 		,
         {
             title: '',
             id: '_4.i.c.i.cGFEE.e6.yHN61_.v.y.bTA',
             object: '_4.i.c.i.cGFEE.e6.yHN61_.v.y.bTA-content.html',
-            icon: 'icon-1314875762'
+            icon: 'icon-2065681187'
         }
 		,
         {
             title: 'enchainement',
             id: '_D.vL.g.oGFFE.e6.yHN61_.v.y.bTA',
             object: '_D.vL.g.oGFFE.e6.yHN61_.v.y.bTA-content.html',
-            icon: 'icon122181886',
+            icon: 'icon-684841006',
             children: [
                 {_reference: '_M.f.uJMGFFE.e6.yHN61_.v.y.bTA' },
                 {_reference: '_F.iY.j.oGFFE.e6.yHN61_.v.y.bTA' },
@@ -620,49 +669,49 @@
             title: 'objet(s)',
             id: '_F.iY.j.oGFFE.e6.yHN61_.v.y.bTA',
             object: '_D.vL.g.oGFFE.e6.yHN61_.v.y.bTA-content.html#_F.iY.j.oGFFE.e6.yHN61_.v.y.bTA',
-            icon: 'icon-1363815533'
+            icon: 'icon-1319995963'
         }
 		,
         {
             title: 'section depart',
             id: '_M.f.s7EGFFE.e6.yHN61_.v.y.bTA',
             object: '_D.vL.g.oGFFE.e6.yHN61_.v.y.bTA-content.html#_M.f.s7EGFFE.e6.yHN61_.v.y.bTA',
-            icon: 'icon-1363815533'
+            icon: 'icon-1319995963'
         }
 		,
         {
             title: 'enchainement(s)',
             id: '_M.f.uJMGFFE.e6.yHN61_.v.y.bTA',
             object: '_D.vL.g.oGFFE.e6.yHN61_.v.y.bTA-content.html#_M.f.uJMGFFE.e6.yHN61_.v.y.bTA',
-            icon: 'icon-1363815533'
+            icon: 'icon-1319995963'
         }
 		,
         {
             title: 'section d\'arrivée',
             id: '_21.qD.gGHTE.e6.q6NC.w.rQ5.pQA',
             object: '_D.vL.g.oGFFE.e6.yHN61_.v.y.bTA-content.html#_21.qD.gGHTE.e6.q6NC.w.rQ5.pQA',
-            icon: 'icon-1363815533'
+            icon: 'icon-1319995963'
         }
 		,
         {
             title: '',
             id: '_F.iW.u.cGFFE.e6.yHN61_.v.y.bTA',
             object: '_F.iW.u.cGFFE.e6.yHN61_.v.y.bTA-content.html',
-            icon: 'icon-1314875762'
+            icon: 'icon-2065681187'
         }
 		,
         {
             title: '',
             id: '_M.f.sUAGFFE.e6.yHN61_.v.y.bTA',
             object: '_M.f.sUAGFFE.e6.yHN61_.v.y.bTA-content.html',
-            icon: 'icon-1314875762'
+            icon: 'icon-2065681187'
         }
 		,
         {
             title: 'condition',
             id: '_.e7.b2.kGFFE.e6.yHN61_.v.y.bTA',
             object: '_.e7.b2.kGFFE.e6.yHN61_.v.y.bTA-content.html',
-            icon: 'icon122181886',
+            icon: 'icon-684841006',
             children: [
             ]
         }
@@ -671,7 +720,7 @@
             title: 'type section',
             id: '_.xHIK8GFFE.e6.yHN61_.v.y.bTA',
             object: '_.xHIK8GFFE.e6.yHN61_.v.y.bTA-content.html',
-            icon: 'icon122181886',
+            icon: 'icon-684841006',
             children: [
                 {_reference: '_3.k.sEQGFFE.e6.yHN61_.v.y.bTA' }
             ]
@@ -681,28 +730,28 @@
             title: 'section(s)',
             id: '_3.k.sEQGFFE.e6.yHN61_.v.y.bTA',
             object: '_.xHIK8GFFE.e6.yHN61_.v.y.bTA-content.html#_3.k.sEQGFFE.e6.yHN61_.v.y.bTA',
-            icon: 'icon-1363815533'
+            icon: 'icon-1319995963'
         }
 		,
         {
             title: '',
             id: '_3.k.q2IGFFE.e6.yHN61_.v.y.bTA',
             object: '_3.k.q2IGFFE.e6.yHN61_.v.y.bTA-content.html',
-            icon: 'icon-1314875762'
+            icon: 'icon-2065681187'
         }
 		,
         {
             title: '',
             id: '_4.k9-.oGHLE.e6.q6NC.w.rQ5.pQA',
             object: '_4.k9-.oGHLE.e6.q6NC.w.rQ5.pQA-content.html',
-            icon: 'icon56475587'
+            icon: 'icon-476699948'
         }
 		,
         {
             title: 'section debut',
             id: '_G6R3UGHME.e6.q6NC.w.rQ5.pQA',
             object: '_G6R3UGHME.e6.q6NC.w.rQ5.pQA-content.html',
-            icon: 'icon122181886',
+            icon: 'icon-684841006',
             children: [
                 {_reference: '_ZFF.a4.mHME.e6.q6NC.w.rQ5.pQA' }
             ]
@@ -712,14 +761,14 @@
             title: 'livre',
             id: '_ZFF.a4.mHME.e6.q6NC.w.rQ5.pQA',
             object: '_G6R3UGHME.e6.q6NC.w.rQ5.pQA-content.html#_ZFF.a4.mHME.e6.q6NC.w.rQ5.pQA',
-            icon: 'icon-1363815533'
+            icon: 'icon-1319995963'
         }
 		,
         {
             title: 'section fin',
             id: '_IAY.j.wGHME.e6.q6NC.w.rQ5.pQA',
             object: '_IAY.j.wGHME.e6.q6NC.w.rQ5.pQA-content.html',
-            icon: 'icon122181886',
+            icon: 'icon-684841006',
             children: [
                 {_reference: '_.fI8.a.wGHME.e6.q6NC.w.rQ5.pQA' }
             ]
@@ -729,35 +778,35 @@
             title: 'livre',
             id: '_.fI8.a.wGHME.e6.q6NC.w.rQ5.pQA',
             object: '_IAY.j.wGHME.e6.q6NC.w.rQ5.pQA-content.html#_.fI8.a.wGHME.e6.q6NC.w.rQ5.pQA',
-            icon: 'icon-1363815533'
+            icon: 'icon-1319995963'
         }
 		,
         {
             title: '',
             id: '_ZE7.p4GHME.e6.q6NC.w.rQ5.pQA',
             object: '_ZE7.p4GHME.e6.q6NC.w.rQ5.pQA-content.html',
-            icon: 'icon-1314875762'
+            icon: 'icon-2065681187'
         }
 		,
         {
             title: '',
             id: '_.fI.h.kAGHME.e6.q6NC.w.rQ5.pQA',
             object: '_.fI.h.kAGHME.e6.q6NC.w.rQ5.pQA-content.html',
-            icon: 'icon-1314875762'
+            icon: 'icon-2065681187'
         }
 		,
         {
             title: '',
             id: '_21.gS.gGHTE.e6.q6NC.w.rQ5.pQA',
             object: '_21.gS.gGHTE.e6.q6NC.w.rQ5.pQA-content.html',
-            icon: 'icon-1314875762'
+            icon: 'icon-2065681187'
         }
 		,
         {
             title: 'Collaboration1',
             id: '_85.m4QG.b.cE.e6.e.pZ5.uV9UXXQ',
             object: '_85.m4QG.b.cE.e6.e.pZ5.uV9UXXQ-content.html',
-            icon: 'icon756584168',
+            icon: 'icon-879044931',
             children: [
                 {_reference: '_F3CGQW.b.dE.e6.e.pZ5.uV9UXXQ' },
                 {_reference: '_T.l.wEI.m.dNE.e68.s.r7.l.o0BFUQ' },
@@ -772,7 +821,7 @@
             title: 'UC06 SN',
             id: '_85.sX0G.b.cE.e6.e.pZ5.uV9UXXQ',
             object: '_85.sX0G.b.cE.e6.e.pZ5.uV9UXXQ-content.html',
-            icon: 'icon-1349791467',
+            icon: 'icon1802255137',
             children: [
                 {_reference: '_MT.w.n.wG.dOE.e68.s.r7.l.o0BFUQ' },
                 {_reference: '_XM.gS82.dOE.e68.s.r7.l.o0BFUQ' },
@@ -798,189 +847,189 @@
             title: '',
             id: '_H.fN.v.kG.b.eE.e6.e.pZ5.uV9UXXQ',
             object: '_H.fN.v.kG.b.eE.e6.e.pZ5.uV9UXXQ-content.html',
-            icon: 'icon-433374675'
+            icon: 'icon-1870060971'
         }
 		,
         {
             title: '',
             id: '_W.w.h9.gG.b.eE.e6.e.pZ5.uV9UXXQ',
             object: '_W.w.h9.gG.b.eE.e6.e.pZ5.uV9UXXQ-content.html',
-            icon: 'icon-433374675'
+            icon: 'icon-1870060971'
         }
 		,
         {
             title: '',
             id: '_.u7-N0G.b.eE.e6.e.pZ5.uV9UXXQ',
             object: '_.u7-N0G.b.eE.e6.e.pZ5.uV9UXXQ-content.html',
-            icon: 'icon-433374675'
+            icon: 'icon-1870060971'
         }
 		,
         {
             title: '',
             id: '_T.mA.i0G.dNE.e68.s.r7.l.o0BFUQ',
             object: '_T.mA.i0G.dNE.e68.s.r7.l.o0BFUQ-content.html',
-            icon: 'icon-433374675'
+            icon: 'icon-1870060971'
         }
 		,
         {
             title: '',
             id: '_T.mA.i02.dNE.e68.s.r7.l.o0BFUQ',
             object: '_T.mA.i02.dNE.e68.s.r7.l.o0BFUQ-content.html',
-            icon: 'icon-433374675'
+            icon: 'icon-1870060971'
         }
 		,
         {
             title: 'auteur:auteur1',
             id: '_F3CGQG.b.dE.e6.e.pZ5.uV9UXXQ',
             object: '_85.sX0G.b.cE.e6.e.pZ5.uV9UXXQ-content.html#_F3CGQG.b.dE.e6.e.pZ5.uV9UXXQ',
-            icon: 'icon1650174320'
+            icon: 'icon-1077014729'
         }
 		,
         {
             title: 'systeme:sysLDVH',
             id: '_L.n2OUG.b.dE.e6.e.pZ5.uV9UXXQ',
             object: '_85.sX0G.b.cE.e6.e.pZ5.uV9UXXQ-content.html#_L.n2OUG.b.dE.e6.e.pZ5.uV9UXXQ',
-            icon: 'icon1650174320'
+            icon: 'icon-1077014729'
         }
 		,
         {
             title: '',
             id: '_MT.w.n.wG.dOE.e68.s.r7.l.o0BFUQ',
             object: '_85.sX0G.b.cE.e6.e.pZ5.uV9UXXQ-content.html#_MT.w.n.wG.dOE.e68.s.r7.l.o0BFUQ',
-            icon: 'icon-1481557428'
+            icon: 'icon63981087'
         }
 		,
         {
             title: '',
             id: '_XM.gS82.dOE.e68.s.r7.l.o0BFUQ',
             object: '_85.sX0G.b.cE.e6.e.pZ5.uV9UXXQ-content.html#_XM.gS82.dOE.e68.s.r7.l.o0BFUQ',
-            icon: 'icon-1481557428'
+            icon: 'icon63981087'
         }
 		,
         {
             title: '',
             id: '_.e.aKM.c.m.dOE.e68.s.r7.l.o0BFUQ',
             object: '_85.sX0G.b.cE.e6.e.pZ5.uV9UXXQ-content.html#_.e.aKM.c.m.dOE.e68.s.r7.l.o0BFUQ',
-            icon: 'icon-1481557428'
+            icon: 'icon63981087'
         }
 		,
         {
             title: '',
             id: '_.u.m.sF.c.m.dOE.e68.s.r7.l.o0BFUQ',
             object: '_85.sX0G.b.cE.e6.e.pZ5.uV9UXXQ-content.html#_.u.m.sF.c.m.dOE.e68.s.r7.l.o0BFUQ',
-            icon: 'icon-1481557428'
+            icon: 'icon63981087'
         }
 		,
         {
             title: 'selectionnerChoix()',
             id: '_MT.r.vQG.dOE.e68.s.r7.l.o0BFUQ',
             object: '_MT.r.vQG.dOE.e68.s.r7.l.o0BFUQ-content.html',
-            icon: 'icon974715947'
+            icon: 'icon-319793399'
         }
 		,
         {
             title: 'selectionnerChoix()',
             id: '_MT.w.n.w.m.dOE.e68.s.r7.l.o0BFUQ',
             object: '_MT.w.n.w.m.dOE.e68.s.r7.l.o0BFUQ-content.html',
-            icon: 'icon-1459702995'
+            icon: 'icon-217990891'
         }
 		,
         {
             title: 'userChoice("PDF", "HTML", "path")',
             id: '_XM.gS8G.dOE.e68.s.r7.l.o0BFUQ',
             object: '_XM.gS8G.dOE.e68.s.r7.l.o0BFUQ-content.html',
-            icon: 'icon974715947'
+            icon: 'icon-319793399'
         }
 		,
         {
             title: 'userChoice("PDF", "HTML", "path")',
             id: '_XM.gS9W.dOE.e68.s.r7.l.o0BFUQ',
             object: '_XM.gS9W.dOE.e68.s.r7.l.o0BFUQ-content.html',
-            icon: 'icon-1459702995'
+            icon: 'icon-217990891'
         }
 		,
         {
             title: 'generatePDF()',
             id: '_.e.aFT8G.dOE.e68.s.r7.l.o0BFUQ',
             object: '_.e.aFT8G.dOE.e68.s.r7.l.o0BFUQ-content.html',
-            icon: 'icon-26851094'
+            icon: 'icon70844771'
         }
 		,
         {
             title: 'generateHTML()',
             id: '_.u.m.nM8G.dOE.e68.s.r7.l.o0BFUQ',
             object: '_.u.m.nM8G.dOE.e68.s.r7.l.o0BFUQ-content.html',
-            icon: 'icon-26851094'
+            icon: 'icon70844771'
         }
 		,
         {
-            title: 'auteur:auteur1',
+            title: 'auteur',
             id: '_F3CGQW.b.dE.e6.e.pZ5.uV9UXXQ',
             object: '_85.m4QG.b.cE.e6.e.pZ5.uV9UXXQ-content.html#_F3CGQW.b.dE.e6.e.pZ5.uV9UXXQ',
-            icon: 'icon1436116209'
+            icon: 'icon-1982362002'
         }
 		,
         {
             title: 'systeme:sysLDVH',
             id: '_L.n2OUW.b.dE.e6.e.pZ5.uV9UXXQ',
             object: '_85.m4QG.b.cE.e6.e.pZ5.uV9UXXQ-content.html#_L.n2OUW.b.dE.e6.e.pZ5.uV9UXXQ',
-            icon: 'icon1436116209'
+            icon: 'icon-1982362002'
         }
 		,
         {
             title: 'gerer une version de sortie',
             id: '_Q-2.vQW.b.dE.e6.e.pZ5.uV9UXXQ',
             object: '_85.m4QG.b.cE.e6.e.pZ5.uV9UXXQ-content.html#_Q-2.vQW.b.dE.e6.e.pZ5.uV9UXXQ',
-            icon: 'icon1436116209'
+            icon: 'icon-1982362002'
         }
 		,
         {
             title: 'Copy_1_auteur:auteur1',
             id: '_T.l.wEI.m.dNE.e68.s.r7.l.o0BFUQ',
             object: '_85.m4QG.b.cE.e6.e.pZ5.uV9UXXQ-content.html#_T.l.wEI.m.dNE.e68.s.r7.l.o0BFUQ',
-            icon: 'icon1436116209'
+            icon: 'icon-1982362002'
         }
 		,
         {
             title: 'Copy_1_systeme:sysLDVH',
             id: '_T.l.z.u.gG.dNE.e68.s.r7.l.o0BFUQ',
             object: '_85.m4QG.b.cE.e6.e.pZ5.uV9UXXQ-content.html#_T.l.z.u.gG.dNE.e68.s.r7.l.o0BFUQ',
-            icon: 'icon1436116209'
+            icon: 'icon-1982362002'
         }
 		,
         {
             title: 'Auteur:auteur1',
             id: '_EUTIMG.b.dE.e6.e.pZ5.uV9UXXQ',
             object: '_EUTIMG.b.dE.e6.e.pZ5.uV9UXXQ-content.html',
-            icon: 'icon400455054'
+            icon: 'icon-2119003576'
         }
 		,
         {
             title: 'Systeme:sysLDVH',
             id: '_J.j5Z.kG.b.dE.e6.e.pZ5.uV9UXXQ',
             object: '_J.j5Z.kG.b.dE.e6.e.pZ5.uV9UXXQ-content.html',
-            icon: 'icon400455054'
+            icon: 'icon-2119003576'
         }
 		,
         {
             title: 'gerer une version de sortie',
             id: '_O.b.p.y.sG.b.dE.e6.e.pZ5.uV9UXXQ',
             object: '_O.b.p.y.sG.b.dE.e6.e.pZ5.uV9UXXQ-content.html',
-            icon: 'icon717745178'
+            icon: 'icon835396492'
         }
 		,
         {
             title: 'ExecutionEvent1',
             id: '_.e.aKM.c2.dOE.e68.s.r7.l.o0BFUQ',
             object: '_.e.aKM.c2.dOE.e68.s.r7.l.o0BFUQ-content.html',
-            icon: 'icon-900922873'
+            icon: 'icon1683847464'
         }
 		,
         {
             title: 'Collaboration2',
             id: '_.zO.c.eQG.dPE.e68.s.r7.l.o0BFUQ',
             object: '_.zO.c.eQG.dPE.e68.s.r7.l.o0BFUQ-content.html',
-            icon: 'icon756584168',
+            icon: 'icon-879044931',
             children: [
                 {_reference: '_CM.u.b.c2.dQE.e68.s.r7.l.o0BFUQ' },
                 {_reference: '_CM.u.b.dG.dQE.e68.s.r7.l.o0BFUQ' },
@@ -992,7 +1041,7 @@
             title: 'UC06 A1',
             id: '_.zO.m2UG.dPE.e68.s.r7.l.o0BFUQ',
             object: '_.zO.m2UG.dPE.e68.s.r7.l.o0BFUQ-content.html',
-            icon: 'icon-1349791467',
+            icon: 'icon1802255137',
             children: [
                 {_reference: '_CM.zT82.dQE.e68.s.r7.l.o0BFUQ' },
                 {_reference: '_CM.zT-G.dQE.e68.s.r7.l.o0BFUQ' },
@@ -1013,105 +1062,105 @@
             title: '',
             id: '_CM4M.e2.dQE.e68.s.r7.l.o0BFUQ',
             object: '_CM4M.e2.dQE.e68.s.r7.l.o0BFUQ-content.html',
-            icon: 'icon-433374675'
+            icon: 'icon-1870060971'
         }
 		,
         {
             title: '',
             id: '_CM4M.f.m.dQE.e68.s.r7.l.o0BFUQ',
             object: '_CM4M.f.m.dQE.e68.s.r7.l.o0BFUQ-content.html',
-            icon: 'icon-433374675'
+            icon: 'icon-1870060971'
         }
 		,
         {
             title: 'auteur:auteur1',
             id: '_CM.u.b.cW.dQE.e68.s.r7.l.o0BFUQ',
             object: '_.zO.m2UG.dPE.e68.s.r7.l.o0BFUQ-content.html#_CM.u.b.cW.dQE.e68.s.r7.l.o0BFUQ',
-            icon: 'icon1650174320'
+            icon: 'icon-1077014729'
         }
 		,
         {
             title: 'systeme:sysLDVH',
             id: '_CM.u.b.c.m.dQE.e68.s.r7.l.o0BFUQ',
             object: '_.zO.m2UG.dPE.e68.s.r7.l.o0BFUQ-content.html#_CM.u.b.c.m.dQE.e68.s.r7.l.o0BFUQ',
-            icon: 'icon1650174320'
+            icon: 'icon-1077014729'
         }
 		,
         {
             title: '',
             id: '_CM.zT82.dQE.e68.s.r7.l.o0BFUQ',
             object: '_.zO.m2UG.dPE.e68.s.r7.l.o0BFUQ-content.html#_CM.zT82.dQE.e68.s.r7.l.o0BFUQ',
-            icon: 'icon-1481557428'
+            icon: 'icon63981087'
         }
 		,
         {
             title: '',
             id: '_CM.zT-G.dQE.e68.s.r7.l.o0BFUQ',
             object: '_.zO.m2UG.dPE.e68.s.r7.l.o0BFUQ-content.html#_CM.zT-G.dQE.e68.s.r7.l.o0BFUQ',
-            icon: 'icon-1481557428'
+            icon: 'icon63981087'
         }
 		,
         {
             title: '',
             id: '_CM.zT-2.dQE.e68.s.r7.l.o0BFUQ',
             object: '_.zO.m2UG.dPE.e68.s.r7.l.o0BFUQ-content.html#_CM.zT-2.dQE.e68.s.r7.l.o0BFUQ',
-            icon: 'icon-1481557428'
+            icon: 'icon63981087'
         }
 		,
         {
             title: 'userChoice("PDF",  "path")',
             id: '_CM4M.dW.dQE.e68.s.r7.l.o0BFUQ',
             object: '_CM4M.dW.dQE.e68.s.r7.l.o0BFUQ-content.html',
-            icon: 'icon-1459702995'
+            icon: 'icon-217990891'
         }
 		,
         {
             title: 'generatePDF()',
             id: '_CM4M.d2.dQE.e68.s.r7.l.o0BFUQ',
             object: '_CM4M.d2.dQE.e68.s.r7.l.o0BFUQ-content.html',
-            icon: 'icon-26851094'
+            icon: 'icon70844771'
         }
 		,
         {
             title: 'selectionnerChoix()',
             id: '_CM4M.eG.dQE.e68.s.r7.l.o0BFUQ',
             object: '_CM4M.eG.dQE.e68.s.r7.l.o0BFUQ-content.html',
-            icon: 'icon974715947'
+            icon: 'icon-319793399'
         }
 		,
         {
             title: 'userChoice("PDF",  "path")',
             id: '_CM4M.eW.dQE.e68.s.r7.l.o0BFUQ',
             object: '_CM4M.eW.dQE.e68.s.r7.l.o0BFUQ-content.html',
-            icon: 'icon974715947'
+            icon: 'icon-319793399'
         }
 		,
         {
             title: 'selectionnerChoix()',
             id: '_CM4M.e.m.dQE.e68.s.r7.l.o0BFUQ',
             object: '_CM4M.e.m.dQE.e68.s.r7.l.o0BFUQ-content.html',
-            icon: 'icon-1459702995'
+            icon: 'icon-217990891'
         }
 		,
         {
             title: 'auteur:auteur1',
             id: '_CM.u.b.c2.dQE.e68.s.r7.l.o0BFUQ',
             object: '_.zO.c.eQG.dPE.e68.s.r7.l.o0BFUQ-content.html#_CM.u.b.c2.dQE.e68.s.r7.l.o0BFUQ',
-            icon: 'icon1436116209'
+            icon: 'icon-1982362002'
         }
 		,
         {
             title: 'systeme:sysLDVH',
             id: '_CM.u.b.dG.dQE.e68.s.r7.l.o0BFUQ',
             object: '_.zO.c.eQG.dPE.e68.s.r7.l.o0BFUQ-content.html#_CM.u.b.dG.dQE.e68.s.r7.l.o0BFUQ',
-            icon: 'icon1436116209'
+            icon: 'icon-1982362002'
         }
 		,
         {
             title: 'Collaboration3',
             id: '_S.x.y.wQG.dQE.e68.s.r7.l.o0BFUQ',
             object: '_S.x.y.wQG.dQE.e68.s.r7.l.o0BFUQ-content.html',
-            icon: 'icon756584168',
+            icon: 'icon-879044931',
             children: [
                 {_reference: '_X.hRXJG.dQE.e68.s.r7.l.o0BFUQ' },
                 {_reference: '_X.hRXI2.dQE.e68.s.r7.l.o0BFUQ' },
@@ -1123,7 +1172,7 @@
             title: 'UC06 A2',
             id: '_S.x4P0G.dQE.e68.s.r7.l.o0BFUQ',
             object: '_S.x4P0G.dQE.e68.s.r7.l.o0BFUQ-content.html',
-            icon: 'icon-1349791467',
+            icon: 'icon1802255137',
             children: [
                 {_reference: '_X.hRXKG.dQE.e68.s.r7.l.o0BFUQ' },
                 {_reference: '_X.hWP.oW.dQE.e68.s.r7.l.o0BFUQ' },
@@ -1144,105 +1193,105 @@
             title: '',
             id: '_X.hWP.rW.dQE.e68.s.r7.l.o0BFUQ',
             object: '_X.hWP.rW.dQE.e68.s.r7.l.o0BFUQ-content.html',
-            icon: 'icon-433374675'
+            icon: 'icon-1870060971'
         }
 		,
         {
             title: '',
             id: '_X.hWP.sG.dQE.e68.s.r7.l.o0BFUQ',
             object: '_X.hWP.sG.dQE.e68.s.r7.l.o0BFUQ-content.html',
-            icon: 'icon-433374675'
+            icon: 'icon-1870060971'
         }
 		,
         {
             title: 'auteur:auteur1',
             id: '_X.hRXIW.dQE.e68.s.r7.l.o0BFUQ',
             object: '_S.x4P0G.dQE.e68.s.r7.l.o0BFUQ-content.html#_X.hRXIW.dQE.e68.s.r7.l.o0BFUQ',
-            icon: 'icon1650174320'
+            icon: 'icon-1077014729'
         }
 		,
         {
             title: 'systeme:sysLDVH',
             id: '_X.hRXI.m.dQE.e68.s.r7.l.o0BFUQ',
             object: '_S.x4P0G.dQE.e68.s.r7.l.o0BFUQ-content.html#_X.hRXI.m.dQE.e68.s.r7.l.o0BFUQ',
-            icon: 'icon1650174320'
+            icon: 'icon-1077014729'
         }
 		,
         {
             title: '',
             id: '_X.hRXKG.dQE.e68.s.r7.l.o0BFUQ',
             object: '_S.x4P0G.dQE.e68.s.r7.l.o0BFUQ-content.html#_X.hRXKG.dQE.e68.s.r7.l.o0BFUQ',
-            icon: 'icon-1481557428'
+            icon: 'icon63981087'
         }
 		,
         {
             title: '',
             id: '_X.hWP.oW.dQE.e68.s.r7.l.o0BFUQ',
             object: '_S.x4P0G.dQE.e68.s.r7.l.o0BFUQ-content.html#_X.hWP.oW.dQE.e68.s.r7.l.o0BFUQ',
-            icon: 'icon-1481557428'
+            icon: 'icon63981087'
         }
 		,
         {
             title: '',
             id: '_X.hWP.pG.dQE.e68.s.r7.l.o0BFUQ',
             object: '_S.x4P0G.dQE.e68.s.r7.l.o0BFUQ-content.html#_X.hWP.pG.dQE.e68.s.r7.l.o0BFUQ',
-            icon: 'icon-1481557428'
+            icon: 'icon63981087'
         }
 		,
         {
             title: 'selectionnerChoix()',
             id: '_X.hWP.qG.dQE.e68.s.r7.l.o0BFUQ',
             object: '_X.hWP.qG.dQE.e68.s.r7.l.o0BFUQ-content.html',
-            icon: 'icon974715947'
+            icon: 'icon-319793399'
         }
 		,
         {
             title: 'generateHTML()',
             id: '_X.hWP.qW.dQE.e68.s.r7.l.o0BFUQ',
             object: '_X.hWP.qW.dQE.e68.s.r7.l.o0BFUQ-content.html',
-            icon: 'icon-26851094'
+            icon: 'icon70844771'
         }
 		,
         {
             title: 'userChoice("HTML",  "path")',
             id: '_X.hWP.q.m.dQE.e68.s.r7.l.o0BFUQ',
             object: '_X.hWP.q.m.dQE.e68.s.r7.l.o0BFUQ-content.html',
-            icon: 'icon-1459702995'
+            icon: 'icon-217990891'
         }
 		,
         {
             title: 'userChoice("HTML",  "path")',
             id: '_X.hWP.q2.dQE.e68.s.r7.l.o0BFUQ',
             object: '_X.hWP.q2.dQE.e68.s.r7.l.o0BFUQ-content.html',
-            icon: 'icon974715947'
+            icon: 'icon-319793399'
         }
 		,
         {
             title: 'selectionnerChoix()',
             id: '_X.hWP.rG.dQE.e68.s.r7.l.o0BFUQ',
             object: '_X.hWP.rG.dQE.e68.s.r7.l.o0BFUQ-content.html',
-            icon: 'icon-1459702995'
+            icon: 'icon-217990891'
         }
 		,
         {
             title: 'systeme:sysLDVH',
             id: '_X.hRXI2.dQE.e68.s.r7.l.o0BFUQ',
             object: '_S.x.y.wQG.dQE.e68.s.r7.l.o0BFUQ-content.html#_X.hRXI2.dQE.e68.s.r7.l.o0BFUQ',
-            icon: 'icon1436116209'
+            icon: 'icon-1982362002'
         }
 		,
         {
             title: 'auteur:auteur1',
             id: '_X.hRXJG.dQE.e68.s.r7.l.o0BFUQ',
             object: '_S.x.y.wQG.dQE.e68.s.r7.l.o0BFUQ-content.html#_X.hRXJG.dQE.e68.s.r7.l.o0BFUQ',
-            icon: 'icon1436116209'
+            icon: 'icon-1982362002'
         }
 		,
         {
             title: 'Collaboration4',
             id: '_2I0.h.kG.t.pE.e6.e.w7.h4.z4S.b.nA',
             object: '_2I0.h.kG.t.pE.e6.e.w7.h4.z4S.b.nA-content.html',
-            icon: 'icon756584168',
+            icon: 'icon-879044931',
             children: [
                 {_reference: '_.q6K.bUW.t.qE.e6.e.w7.h4.z4S.b.nA' },
                 {_reference: '_.u1.lIAW.t.qE.e6.e.w7.h4.z4S.b.nA' },
@@ -1254,7 +1303,7 @@
             title: 'UC04SN',
             id: '_2JBV4G.t.pE.e6.e.w7.h4.z4S.b.nA',
             object: '_2JBV4G.t.pE.e6.e.w7.h4.z4S.b.nA-content.html',
-            icon: 'icon-1349791467',
+            icon: 'icon1802255137',
             children: [
                 {_reference: '_1.l9P.oG.t.qE.e6.e.w7.h4.z4S.b.nA' },
                 {_reference: '_5X.fA.gW.t.qE.e6.e.w7.h4.z4S.b.nA' },
@@ -1282,168 +1331,168 @@
             title: '',
             id: '_1.l9P.pG.t.qE.e6.e.w7.h4.z4S.b.nA',
             object: '_1.l9P.pG.t.qE.e6.e.w7.h4.z4S.b.nA-content.html',
-            icon: 'icon-433374675'
+            icon: 'icon-1870060971'
         }
 		,
         {
             title: '',
             id: '_5X.fA.hW.t.qE.e6.e.w7.h4.z4S.b.nA',
             object: '_5X.fA.hW.t.qE.e6.e.w7.h4.z4S.b.nA-content.html',
-            icon: 'icon-433374675'
+            icon: 'icon-1870060971'
         }
 		,
         {
             title: 'auteur',
             id: '_.q6K.bUG.t.qE.e6.e.w7.h4.z4S.b.nA',
             object: '_2JBV4G.t.pE.e6.e.w7.h4.z4S.b.nA-content.html#_.q6K.bUG.t.qE.e6.e.w7.h4.z4S.b.nA',
-            icon: 'icon1650174320'
+            icon: 'icon-1077014729'
         }
 		,
         {
             title: 'systeme',
             id: '_.u1.lIAG.t.qE.e6.e.w7.h4.z4S.b.nA',
             object: '_2JBV4G.t.pE.e6.e.w7.h4.z4S.b.nA-content.html#_.u1.lIAG.t.qE.e6.e.w7.h4.z4S.b.nA',
-            icon: 'icon1650174320'
+            icon: 'icon-1077014729'
         }
 		,
         {
             title: '',
             id: '_1.l9P.oG.t.qE.e6.e.w7.h4.z4S.b.nA',
             object: '_2JBV4G.t.pE.e6.e.w7.h4.z4S.b.nA-content.html#_1.l9P.oG.t.qE.e6.e.w7.h4.z4S.b.nA',
-            icon: 'icon-1481557428'
+            icon: 'icon63981087'
         }
 		,
         {
             title: '',
             id: '_5X.fA.gW.t.qE.e6.e.w7.h4.z4S.b.nA',
             object: '_2JBV4G.t.pE.e6.e.w7.h4.z4S.b.nA-content.html#_5X.fA.gW.t.qE.e6.e.w7.h4.z4S.b.nA',
-            icon: 'icon-1481557428'
+            icon: 'icon63981087'
         }
 		,
         {
             title: '',
             id: '_Y0K.p0.m.t.rE.e6.e.w7.h4.z4S.b.nA',
             object: '_2JBV4G.t.pE.e6.e.w7.h4.z4S.b.nA-content.html#_Y0K.p0.m.t.rE.e6.e.w7.h4.z4S.b.nA',
-            icon: 'icon-1481557428'
+            icon: 'icon63981087'
         }
 		,
         {
             title: '',
             id: '_Y0K.p1W.t.rE.e6.e.w7.h4.z4S.b.nA',
             object: '_2JBV4G.t.pE.e6.e.w7.h4.z4S.b.nA-content.html#_Y0K.p1W.t.rE.e6.e.w7.h4.z4S.b.nA',
-            icon: 'icon-1481557428'
+            icon: 'icon63981087'
         }
 		,
         {
             title: '',
             id: '_Y0QJYW.t.rE.e6.e.w7.h4.z4S.b.nA',
             object: '_2JBV4G.t.pE.e6.e.w7.h4.z4S.b.nA-content.html#_Y0QJYW.t.rE.e6.e.w7.h4.z4S.b.nA',
-            icon: 'icon-1481557428'
+            icon: 'icon63981087'
         }
 		,
         {
             title: 'ouvrirGestionObject()',
             id: '_1.l4XIG.t.qE.e6.e.w7.h4.z4S.b.nA',
             object: '_1.l4XIG.t.qE.e6.e.w7.h4.z4S.b.nA-content.html',
-            icon: 'icon974715947'
+            icon: 'icon-319793399'
         }
 		,
         {
             title: 'ouvrirGestionObject()',
             id: '_1.l9P.o.m.t.qE.e6.e.w7.h4.z4S.b.nA',
             object: '_1.l9P.o.m.t.qE.e6.e.w7.h4.z4S.b.nA-content.html',
-            icon: 'icon-1459702995'
+            icon: 'icon-217990891'
         }
 		,
         {
             title: 'afficherListeObjet()',
             id: '_5X.b9MG.t.qE.e6.e.w7.h4.z4S.b.nA',
             object: '_5X.b9MG.t.qE.e6.e.w7.h4.z4S.b.nA-content.html',
-            icon: 'icon974715947'
+            icon: 'icon-319793399'
         }
 		,
         {
             title: 'afficherListeObjet()',
             id: '_5X.fA.g2.t.qE.e6.e.w7.h4.z4S.b.nA',
             object: '_5X.fA.g2.t.qE.e6.e.w7.h4.z4S.b.nA-content.html',
-            icon: 'icon-1459702995'
+            icon: 'icon-217990891'
         }
 		,
         {
             title: 'valider():True',
             id: '_Y0QJZ.m.t.rE.e6.e.w7.h4.z4S.b.nA',
             object: '_Y0QJZ.m.t.rE.e6.e.w7.h4.z4S.b.nA-content.html',
-            icon: 'icon-1459702995'
+            icon: 'icon-217990891'
         }
 		,
         {
             title: 'valider():True',
             id: '_Y0QJZ2.t.rE.e6.e.w7.h4.z4S.b.nA',
             object: '_Y0QJZ2.t.rE.e6.e.w7.h4.z4S.b.nA-content.html',
-            icon: 'icon974715947'
+            icon: 'icon-319793399'
         }
 		,
         {
             title: 'AjouterObjet(objet)',
             id: '_Y0QJ.aG.t.rE.e6.e.w7.h4.z4S.b.nA',
             object: '_Y0QJ.aG.t.rE.e6.e.w7.h4.z4S.b.nA-content.html',
-            icon: 'icon-1459702995'
+            icon: 'icon-217990891'
         }
 		,
         {
             title: 'AjouterObjet(objet)',
             id: '_Y0QJ.aW.t.rE.e6.e.w7.h4.z4S.b.nA',
             object: '_Y0QJ.aW.t.rE.e6.e.w7.h4.z4S.b.nA-content.html',
-            icon: 'icon974715947'
+            icon: 'icon-319793399'
         }
 		,
         {
             title: 'affichageAjout()',
             id: '_Y0QJ.a.m.t.rE.e6.e.w7.h4.z4S.b.nA',
             object: '_Y0QJ.a.m.t.rE.e6.e.w7.h4.z4S.b.nA-content.html',
-            icon: 'icon974715947'
+            icon: 'icon-319793399'
         }
 		,
         {
             title: 'affichageAjout()',
             id: '_Y0QJ.a2.t.rE.e6.e.w7.h4.z4S.b.nA',
             object: '_Y0QJ.a2.t.rE.e6.e.w7.h4.z4S.b.nA-content.html',
-            icon: 'icon-1459702995'
+            icon: 'icon-217990891'
         }
 		,
         {
             title: 'auteur',
             id: '_.q6K.bUW.t.qE.e6.e.w7.h4.z4S.b.nA',
             object: '_2I0.h.kG.t.pE.e6.e.w7.h4.z4S.b.nA-content.html#_.q6K.bUW.t.qE.e6.e.w7.h4.z4S.b.nA',
-            icon: 'icon1436116209'
+            icon: 'icon-1982362002'
         }
 		,
         {
             title: 'systeme',
             id: '_.u1.lIAW.t.qE.e6.e.w7.h4.z4S.b.nA',
             object: '_2I0.h.kG.t.pE.e6.e.w7.h4.z4S.b.nA-content.html#_.u1.lIAW.t.qE.e6.e.w7.h4.z4S.b.nA',
-            icon: 'icon1436116209'
+            icon: 'icon-1982362002'
         }
 		,
         {
             title: 'Auteur',
             id: '_.q.aY.vEG.t.qE.e6.e.w7.h4.z4S.b.nA',
             object: '_.q.aY.vEG.t.qE.e6.e.w7.h4.z4S.b.nA-content.html',
-            icon: 'icon400455054'
+            icon: 'icon-2119003576'
         }
 		,
         {
             title: 'Systeme',
             id: '_.uU4O.sG.t.qE.e6.e.w7.h4.z4S.b.nA',
             object: '_.uU4O.sG.t.qE.e6.e.w7.h4.z4S.b.nA-content.html',
-            icon: 'icon400455054'
+            icon: 'icon-2119003576'
         }
 		,
         {
             title: 'Collaboration5',
             id: '_-U_.m4G.t.rE.e6.e.w7.h4.z4S.b.nA',
             object: '_-U_.m4G.t.rE.e6.e.w7.h4.z4S.b.nA-content.html',
-            icon: 'icon756584168',
+            icon: 'icon-879044931',
             children: [
                 {_reference: '_-.kK.rUW.t.rE.e6.e.w7.h4.z4S.b.nA' },
                 {_reference: '_-.kK.rU.m.t.rE.e6.e.w7.h4.z4S.b.nA' },
@@ -1455,7 +1504,7 @@
             title: 'UC04ALT1',
             id: '_-VGU.kG.t.rE.e6.e.w7.h4.z4S.b.nA',
             object: '_-VGU.kG.t.rE.e6.e.w7.h4.z4S.b.nA-content.html',
-            icon: 'icon-1349791467',
+            icon: 'icon1802255137',
             children: [
                 {_reference: '_-.kK.rVW.t.rE.e6.e.w7.h4.z4S.b.nA' },
                 {_reference: '_-.kP.j0W.t.rE.e6.e.w7.h4.z4S.b.nA' },
@@ -1483,154 +1532,154 @@
             title: '',
             id: '_-.kWR.jG.t.rE.e6.e.w7.h4.z4S.b.nA',
             object: '_-.kWR.jG.t.rE.e6.e.w7.h4.z4S.b.nA-content.html',
-            icon: 'icon-433374675'
+            icon: 'icon-1870060971'
         }
 		,
         {
             title: '',
             id: '_-.kWR.j2.t.rE.e6.e.w7.h4.z4S.b.nA',
             object: '_-.kWR.j2.t.rE.e6.e.w7.h4.z4S.b.nA-content.html',
-            icon: 'icon-433374675'
+            icon: 'icon-1870060971'
         }
 		,
         {
             title: 'auteur',
             id: '_-.kKEQG.t.rE.e6.e.w7.h4.z4S.b.nA',
             object: '_-VGU.kG.t.rE.e6.e.w7.h4.z4S.b.nA-content.html#_-.kKEQG.t.rE.e6.e.w7.h4.z4S.b.nA',
-            icon: 'icon1650174320'
+            icon: 'icon-1077014729'
         }
 		,
         {
             title: 'systeme',
             id: '_-.kK.rUG.t.rE.e6.e.w7.h4.z4S.b.nA',
             object: '_-VGU.kG.t.rE.e6.e.w7.h4.z4S.b.nA-content.html#_-.kK.rUG.t.rE.e6.e.w7.h4.z4S.b.nA',
-            icon: 'icon1650174320'
+            icon: 'icon-1077014729'
         }
 		,
         {
             title: '',
             id: '_-.kK.rVW.t.rE.e6.e.w7.h4.z4S.b.nA',
             object: '_-VGU.kG.t.rE.e6.e.w7.h4.z4S.b.nA-content.html#_-.kK.rVW.t.rE.e6.e.w7.h4.z4S.b.nA',
-            icon: 'icon-1481557428'
+            icon: 'icon63981087'
         }
 		,
         {
             title: '',
             id: '_-.kP.j0W.t.rE.e6.e.w7.h4.z4S.b.nA',
             object: '_-VGU.kG.t.rE.e6.e.w7.h4.z4S.b.nA-content.html#_-.kP.j0W.t.rE.e6.e.w7.h4.z4S.b.nA',
-            icon: 'icon-1481557428'
+            icon: 'icon63981087'
         }
 		,
         {
             title: '',
             id: '_-.kQK5.m.t.rE.e6.e.w7.h4.z4S.b.nA',
             object: '_-VGU.kG.t.rE.e6.e.w7.h4.z4S.b.nA-content.html#_-.kQK5.m.t.rE.e6.e.w7.h4.z4S.b.nA',
-            icon: 'icon-1481557428'
+            icon: 'icon63981087'
         }
 		,
         {
             title: '',
             id: '_-.kQK6W.t.rE.e6.e.w7.h4.z4S.b.nA',
             object: '_-VGU.kG.t.rE.e6.e.w7.h4.z4S.b.nA-content.html#_-.kQK6W.t.rE.e6.e.w7.h4.z4S.b.nA',
-            icon: 'icon-1481557428'
+            icon: 'icon63981087'
         }
 		,
         {
             title: '',
             id: '_-.kQK7.m.t.rE.e6.e.w7.h4.z4S.b.nA',
             object: '_-VGU.kG.t.rE.e6.e.w7.h4.z4S.b.nA-content.html#_-.kQK7.m.t.rE.e6.e.w7.h4.z4S.b.nA',
-            icon: 'icon-1481557428'
+            icon: 'icon63981087'
         }
 		,
         {
             title: 'valider():True',
             id: '_-.kWR.g.m.t.rE.e6.e.w7.h4.z4S.b.nA',
             object: '_-.kWR.g.m.t.rE.e6.e.w7.h4.z4S.b.nA-content.html',
-            icon: 'icon974715947'
+            icon: 'icon-319793399'
         }
 		,
         {
             title: 'affichageSuppression()',
             id: '_-.kWR.g2.t.rE.e6.e.w7.h4.z4S.b.nA',
             object: '_-.kWR.g2.t.rE.e6.e.w7.h4.z4S.b.nA-content.html',
-            icon: 'icon974715947'
+            icon: 'icon-319793399'
         }
 		,
         {
             title: 'valider():True',
             id: '_-.kWR.hG.t.rE.e6.e.w7.h4.z4S.b.nA',
             object: '_-.kWR.hG.t.rE.e6.e.w7.h4.z4S.b.nA-content.html',
-            icon: 'icon-1459702995'
+            icon: 'icon-217990891'
         }
 		,
         {
             title: 'ouvrirGestionObject()',
             id: '_-.kWR.hW.t.rE.e6.e.w7.h4.z4S.b.nA',
             object: '_-.kWR.hW.t.rE.e6.e.w7.h4.z4S.b.nA-content.html',
-            icon: 'icon-1459702995'
+            icon: 'icon-217990891'
         }
 		,
         {
             title: 'ouvrirGestionObject()',
             id: '_-.kWR.h.m.t.rE.e6.e.w7.h4.z4S.b.nA',
             object: '_-.kWR.h.m.t.rE.e6.e.w7.h4.z4S.b.nA-content.html',
-            icon: 'icon974715947'
+            icon: 'icon-319793399'
         }
 		,
         {
             title: 'afficherListeObjet()',
             id: '_-.kWR.h2.t.rE.e6.e.w7.h4.z4S.b.nA',
             object: '_-.kWR.h2.t.rE.e6.e.w7.h4.z4S.b.nA-content.html',
-            icon: 'icon974715947'
+            icon: 'icon-319793399'
         }
 		,
         {
             title: 'affichageSuppression()',
             id: '_-.kWR.iG.t.rE.e6.e.w7.h4.z4S.b.nA',
             object: '_-.kWR.iG.t.rE.e6.e.w7.h4.z4S.b.nA-content.html',
-            icon: 'icon-1459702995'
+            icon: 'icon-217990891'
         }
 		,
         {
             title: 'supprimmerObjet(objet)',
             id: '_-.kWR.iW.t.rE.e6.e.w7.h4.z4S.b.nA',
             object: '_-.kWR.iW.t.rE.e6.e.w7.h4.z4S.b.nA-content.html',
-            icon: 'icon974715947'
+            icon: 'icon-319793399'
         }
 		,
         {
             title: 'afficherListeObjet()',
             id: '_-.kWR.i.m.t.rE.e6.e.w7.h4.z4S.b.nA',
             object: '_-.kWR.i.m.t.rE.e6.e.w7.h4.z4S.b.nA-content.html',
-            icon: 'icon-1459702995'
+            icon: 'icon-217990891'
         }
 		,
         {
             title: 'supprimmerObjet(objet)',
             id: '_-.kWR.i2.t.rE.e6.e.w7.h4.z4S.b.nA',
             object: '_-.kWR.i2.t.rE.e6.e.w7.h4.z4S.b.nA-content.html',
-            icon: 'icon-1459702995'
+            icon: 'icon-217990891'
         }
 		,
         {
             title: 'auteur',
             id: '_-.kK.rUW.t.rE.e6.e.w7.h4.z4S.b.nA',
             object: '_-U_.m4G.t.rE.e6.e.w7.h4.z4S.b.nA-content.html#_-.kK.rUW.t.rE.e6.e.w7.h4.z4S.b.nA',
-            icon: 'icon1436116209'
+            icon: 'icon-1982362002'
         }
 		,
         {
             title: 'systeme',
             id: '_-.kK.rU.m.t.rE.e6.e.w7.h4.z4S.b.nA',
             object: '_-U_.m4G.t.rE.e6.e.w7.h4.z4S.b.nA-content.html#_-.kK.rU.m.t.rE.e6.e.w7.h4.z4S.b.nA',
-            icon: 'icon1436116209'
+            icon: 'icon-1982362002'
         }
 		,
         {
             title: 'Collaboration6',
             id: '_O-Y.bAG.t.sE.e6.e.w7.h4.z4S.b.nA',
             object: '_O-Y.bAG.t.sE.e6.e.w7.h4.z4S.b.nA-content.html',
-            icon: 'icon756584168',
+            icon: 'icon-879044931',
             children: [
                 {_reference: '_PM.fI.cW.t.sE.e6.e.w7.h4.z4S.b.nA' },
                 {_reference: '_PM.fI.c.m.t.sE.e6.e.w7.h4.z4S.b.nA' },
@@ -1642,7 +1691,7 @@
             title: 'UC04ALT2',
             id: '_O-.a3QG.t.sE.e6.e.w7.h4.z4S.b.nA',
             object: '_O-.a3QG.t.sE.e6.e.w7.h4.z4S.b.nA-content.html',
-            icon: 'icon-1349791467',
+            icon: 'icon1802255137',
             children: [
                 {_reference: '_PM.fI.dW.t.sE.e6.e.w7.h4.z4S.b.nA' },
                 {_reference: '_PM.kA8G.t.sE.e6.e.w7.h4.z4S.b.nA' },
@@ -1670,154 +1719,154 @@
             title: '',
             id: '_PM.r8.w.m.t.sE.e6.e.w7.h4.z4S.b.nA',
             object: '_PM.r8.w.m.t.sE.e6.e.w7.h4.z4S.b.nA-content.html',
-            icon: 'icon-433374675'
+            icon: 'icon-1870060971'
         }
 		,
         {
             title: '',
             id: '_PM.r8.xW.t.sE.e6.e.w7.h4.z4S.b.nA',
             object: '_PM.r8.xW.t.sE.e6.e.w7.h4.z4S.b.nA-content.html',
-            icon: 'icon-433374675'
+            icon: 'icon-1870060971'
         }
 		,
         {
             title: 'auteur',
             id: '_PM.a3AW.t.sE.e6.e.w7.h4.z4S.b.nA',
             object: '_O-.a3QG.t.sE.e6.e.w7.h4.z4S.b.nA-content.html#_PM.a3AW.t.sE.e6.e.w7.h4.z4S.b.nA',
-            icon: 'icon1650174320'
+            icon: 'icon-1077014729'
         }
 		,
         {
             title: 'systeme',
             id: '_PM.fI.cG.t.sE.e6.e.w7.h4.z4S.b.nA',
             object: '_O-.a3QG.t.sE.e6.e.w7.h4.z4S.b.nA-content.html#_PM.fI.cG.t.sE.e6.e.w7.h4.z4S.b.nA',
-            icon: 'icon1650174320'
+            icon: 'icon-1077014729'
         }
 		,
         {
             title: '',
             id: '_PM.fI.dW.t.sE.e6.e.w7.h4.z4S.b.nA',
             object: '_O-.a3QG.t.sE.e6.e.w7.h4.z4S.b.nA-content.html#_PM.fI.dW.t.sE.e6.e.w7.h4.z4S.b.nA',
-            icon: 'icon-1481557428'
+            icon: 'icon63981087'
         }
 		,
         {
             title: '',
             id: '_PM.kA8G.t.sE.e6.e.w7.h4.z4S.b.nA',
             object: '_O-.a3QG.t.sE.e6.e.w7.h4.z4S.b.nA-content.html#_PM.kA8G.t.sE.e6.e.w7.h4.z4S.b.nA',
-            icon: 'icon-1481557428'
+            icon: 'icon63981087'
         }
 		,
         {
             title: '',
             id: '_PM.m.dMG.t.sE.e6.e.w7.h4.z4S.b.nA',
             object: '_O-.a3QG.t.sE.e6.e.w7.h4.z4S.b.nA-content.html#_PM.m.dMG.t.sE.e6.e.w7.h4.z4S.b.nA',
-            icon: 'icon-1481557428'
+            icon: 'icon63981087'
         }
 		,
         {
             title: '',
             id: '_PM.nEQW.t.sE.e6.e.w7.h4.z4S.b.nA',
             object: '_O-.a3QG.t.sE.e6.e.w7.h4.z4S.b.nA-content.html#_PM.nEQW.t.sE.e6.e.w7.h4.z4S.b.nA',
-            icon: 'icon-1481557428'
+            icon: 'icon63981087'
         }
 		,
         {
             title: '',
             id: '_PM.nER.m.t.sE.e6.e.w7.h4.z4S.b.nA',
             object: '_O-.a3QG.t.sE.e6.e.w7.h4.z4S.b.nA-content.html#_PM.nER.m.t.sE.e6.e.w7.h4.z4S.b.nA',
-            icon: 'icon-1481557428'
+            icon: 'icon63981087'
         }
 		,
         {
             title: 'valider():True',
             id: '_PM.nES2.t.sE.e6.e.w7.h4.z4S.b.nA',
             object: '_PM.nES2.t.sE.e6.e.w7.h4.z4S.b.nA-content.html',
-            icon: 'icon974715947'
+            icon: 'icon-319793399'
         }
 		,
         {
             title: 'affichageModification()',
             id: '_PM.nETG.t.sE.e6.e.w7.h4.z4S.b.nA',
             object: '_PM.nETG.t.sE.e6.e.w7.h4.z4S.b.nA-content.html',
-            icon: 'icon974715947'
+            icon: 'icon-319793399'
         }
 		,
         {
             title: 'valider():True',
             id: '_PM.nETW.t.sE.e6.e.w7.h4.z4S.b.nA',
             object: '_PM.nETW.t.sE.e6.e.w7.h4.z4S.b.nA-content.html',
-            icon: 'icon-1459702995'
+            icon: 'icon-217990891'
         }
 		,
         {
             title: 'ouvrirGestionObject()',
             id: '_PM.nET.m.t.sE.e6.e.w7.h4.z4S.b.nA',
             object: '_PM.nET.m.t.sE.e6.e.w7.h4.z4S.b.nA-content.html',
-            icon: 'icon-1459702995'
+            icon: 'icon-217990891'
         }
 		,
         {
             title: 'ouvrirGestionObject()',
             id: '_PM.nET2.t.sE.e6.e.w7.h4.z4S.b.nA',
             object: '_PM.nET2.t.sE.e6.e.w7.h4.z4S.b.nA-content.html',
-            icon: 'icon974715947'
+            icon: 'icon-319793399'
         }
 		,
         {
             title: 'afficherListeObjet()',
             id: '_PM.nEUG.t.sE.e6.e.w7.h4.z4S.b.nA',
             object: '_PM.nEUG.t.sE.e6.e.w7.h4.z4S.b.nA-content.html',
-            icon: 'icon974715947'
+            icon: 'icon-319793399'
         }
 		,
         {
             title: 'affichageModification()',
             id: '_PM.rV.sG.t.sE.e6.e.w7.h4.z4S.b.nA',
             object: '_PM.rV.sG.t.sE.e6.e.w7.h4.z4S.b.nA-content.html',
-            icon: 'icon-1459702995'
+            icon: 'icon-217990891'
         }
 		,
         {
             title: 'ModifierObjet(objet)',
             id: '_PM.rV.sW.t.sE.e6.e.w7.h4.z4S.b.nA',
             object: '_PM.rV.sW.t.sE.e6.e.w7.h4.z4S.b.nA-content.html',
-            icon: 'icon974715947'
+            icon: 'icon-319793399'
         }
 		,
         {
             title: 'afficherListeObjet()',
             id: '_PM.r8.wG.t.sE.e6.e.w7.h4.z4S.b.nA',
             object: '_PM.r8.wG.t.sE.e6.e.w7.h4.z4S.b.nA-content.html',
-            icon: 'icon-1459702995'
+            icon: 'icon-217990891'
         }
 		,
         {
             title: 'ModifierObjet(objet)',
             id: '_PM.r8.wW.t.sE.e6.e.w7.h4.z4S.b.nA',
             object: '_PM.r8.wW.t.sE.e6.e.w7.h4.z4S.b.nA-content.html',
-            icon: 'icon-1459702995'
+            icon: 'icon-217990891'
         }
 		,
         {
             title: 'auteur',
             id: '_PM.fI.cW.t.sE.e6.e.w7.h4.z4S.b.nA',
             object: '_O-Y.bAG.t.sE.e6.e.w7.h4.z4S.b.nA-content.html#_PM.fI.cW.t.sE.e6.e.w7.h4.z4S.b.nA',
-            icon: 'icon1436116209'
+            icon: 'icon-1982362002'
         }
 		,
         {
             title: 'systeme',
             id: '_PM.fI.c.m.t.sE.e6.e.w7.h4.z4S.b.nA',
             object: '_O-Y.bAG.t.sE.e6.e.w7.h4.z4S.b.nA-content.html#_PM.fI.c.m.t.sE.e6.e.w7.h4.z4S.b.nA',
-            icon: 'icon1436116209'
+            icon: 'icon-1982362002'
         }
 		,
         {
             title: 'Collaboration7',
             id: '_0.lXDYG.t.sE.e6.e.w7.h4.z4S.b.nA',
             object: '_0.lXDYG.t.sE.e6.e.w7.h4.z4S.b.nA-content.html',
-            icon: 'icon756584168',
+            icon: 'icon-879044931',
             children: [
                 {_reference: '_5W.yLA2.t.sE.e6.e.w7.h4.z4S.b.nA' },
                 {_reference: '_5W.yLBG.t.sE.e6.e.w7.h4.z4S.b.nA' },
@@ -1829,7 +1878,7 @@
             title: 'UC04E1',
             id: '_0.lYR.gG.t.sE.e6.e.w7.h4.z4S.b.nA',
             object: '_0.lYR.gG.t.sE.e6.e.w7.h4.z4S.b.nA-content.html',
-            icon: 'icon-1349791467',
+            icon: 'icon1802255137',
             children: [
                 {_reference: '_5W.yLB2.t.sE.e6.e.w7.h4.z4S.b.nA' },
                 {_reference: '_5W.yLC.m.t.sE.e6.e.w7.h4.z4S.b.nA' },
@@ -1853,119 +1902,1298 @@
             title: '',
             id: '_5W-YRW.t.sE.e6.e.w7.h4.z4S.b.nA',
             object: '_5W-YRW.t.sE.e6.e.w7.h4.z4S.b.nA-content.html',
-            icon: 'icon-433374675'
+            icon: 'icon-1870060971'
         }
 		,
         {
             title: '',
             id: '_5W-YSG.t.sE.e6.e.w7.h4.z4S.b.nA',
             object: '_5W-YSG.t.sE.e6.e.w7.h4.z4S.b.nA-content.html',
-            icon: 'icon-433374675'
+            icon: 'icon-1870060971'
         }
 		,
         {
             title: 'auteur',
             id: '_5W.yLAW.t.sE.e6.e.w7.h4.z4S.b.nA',
             object: '_0.lYR.gG.t.sE.e6.e.w7.h4.z4S.b.nA-content.html#_5W.yLAW.t.sE.e6.e.w7.h4.z4S.b.nA',
-            icon: 'icon1650174320'
+            icon: 'icon-1077014729'
         }
 		,
         {
             title: 'systeme',
             id: '_5W.yLA.m.t.sE.e6.e.w7.h4.z4S.b.nA',
             object: '_0.lYR.gG.t.sE.e6.e.w7.h4.z4S.b.nA-content.html#_5W.yLA.m.t.sE.e6.e.w7.h4.z4S.b.nA',
-            icon: 'icon1650174320'
+            icon: 'icon-1077014729'
         }
 		,
         {
             title: '',
             id: '_5W.yLB2.t.sE.e6.e.w7.h4.z4S.b.nA',
             object: '_0.lYR.gG.t.sE.e6.e.w7.h4.z4S.b.nA-content.html#_5W.yLB2.t.sE.e6.e.w7.h4.z4S.b.nA',
-            icon: 'icon-1481557428'
+            icon: 'icon63981087'
         }
 		,
         {
             title: '',
             id: '_5W.yLC.m.t.sE.e6.e.w7.h4.z4S.b.nA',
             object: '_0.lYR.gG.t.sE.e6.e.w7.h4.z4S.b.nA-content.html#_5W.yLC.m.t.sE.e6.e.w7.h4.z4S.b.nA',
-            icon: 'icon-1481557428'
+            icon: 'icon63981087'
         }
 		,
         {
             title: '',
             id: '_5W4R.o.m.t.sE.e6.e.w7.h4.z4S.b.nA',
             object: '_0.lYR.gG.t.sE.e6.e.w7.h4.z4S.b.nA-content.html#_5W4R.o.m.t.sE.e6.e.w7.h4.z4S.b.nA',
-            icon: 'icon-1481557428'
+            icon: 'icon63981087'
         }
 		,
         {
             title: '',
             id: '_5W44.s.m.t.sE.e6.e.w7.h4.z4S.b.nA',
             object: '_0.lYR.gG.t.sE.e6.e.w7.h4.z4S.b.nA-content.html#_5W44.s.m.t.sE.e6.e.w7.h4.z4S.b.nA',
-            icon: 'icon-1481557428'
+            icon: 'icon63981087'
         }
 		,
         {
             title: 'valider():False',
             id: '_5W44.vG.t.sE.e6.e.w7.h4.z4S.b.nA',
             object: '_5W44.vG.t.sE.e6.e.w7.h4.z4S.b.nA-content.html',
-            icon: 'icon-1459702995'
+            icon: 'icon-217990891'
         }
 		,
         {
             title: 'afficherListeObjet()',
             id: '_5W9KIG.t.sE.e6.e.w7.h4.z4S.b.nA',
             object: '_5W9KIG.t.sE.e6.e.w7.h4.z4S.b.nA-content.html',
-            icon: 'icon-1459702995'
+            icon: 'icon-217990891'
         }
 		,
         {
             title: 'valider():False',
             id: '_5W9.xMW.t.sE.e6.e.w7.h4.z4S.b.nA',
             object: '_5W9.xMW.t.sE.e6.e.w7.h4.z4S.b.nA-content.html',
-            icon: 'icon974715947'
+            icon: 'icon-319793399'
         }
 		,
         {
             title: 'ouvrirGestionObject()',
             id: '_5W9.xM.m.t.sE.e6.e.w7.h4.z4S.b.nA',
             object: '_5W9.xM.m.t.sE.e6.e.w7.h4.z4S.b.nA-content.html',
-            icon: 'icon-1459702995'
+            icon: 'icon-217990891'
         }
 		,
         {
             title: 'ModifierObjet(objet)',
             id: '_5W-YQG.t.sE.e6.e.w7.h4.z4S.b.nA',
             object: '_5W-YQG.t.sE.e6.e.w7.h4.z4S.b.nA-content.html',
-            icon: 'icon974715947'
+            icon: 'icon-319793399'
         }
 		,
         {
             title: 'ouvrirGestionObject()',
             id: '_5W-YQ.m.t.sE.e6.e.w7.h4.z4S.b.nA',
             object: '_5W-YQ.m.t.sE.e6.e.w7.h4.z4S.b.nA-content.html',
-            icon: 'icon974715947'
+            icon: 'icon-319793399'
         }
 		,
         {
             title: 'afficherListeObjet()',
             id: '_5W-YQ2.t.sE.e6.e.w7.h4.z4S.b.nA',
             object: '_5W-YQ2.t.sE.e6.e.w7.h4.z4S.b.nA-content.html',
-            icon: 'icon974715947'
+            icon: 'icon-319793399'
         }
 		,
         {
             title: 'auteur',
             id: '_5W.yLA2.t.sE.e6.e.w7.h4.z4S.b.nA',
             object: '_0.lXDYG.t.sE.e6.e.w7.h4.z4S.b.nA-content.html#_5W.yLA2.t.sE.e6.e.w7.h4.z4S.b.nA',
-            icon: 'icon1436116209'
+            icon: 'icon-1982362002'
         }
 		,
         {
             title: 'systeme',
             id: '_5W.yLBG.t.sE.e6.e.w7.h4.z4S.b.nA',
             object: '_0.lXDYG.t.sE.e6.e.w7.h4.z4S.b.nA-content.html#_5W.yLBG.t.sE.e6.e.w7.h4.z4S.b.nA',
-            icon: 'icon1436116209'
+            icon: 'icon-1982362002'
+        }
+		,
+        {
+            title: 'Collaboration8',
+            id: '_.p.g-T.cG.t.tE.e6.e.w7.h4.z4S.b.nA',
+            object: '_.p.g-T.cG.t.tE.e6.e.w7.h4.z4S.b.nA-content.html',
+            icon: 'icon-879044931',
+            children: [
+                {_reference: '_G.bLY8W.t.uE.e6.e.w7.h4.z4S.b.nA' },
+                {_reference: '_.s.kH7Y.m.t.tE.e6.e.w7.h4.z4S.b.nA' },
+                {_reference: '_ZW6.qMG.t.uE.e6.e.w7.h4.z4S.b.nA' },
+                {_reference: '_.xALP8W.t.tE.e6.e.w7.h4.z4S.b.nA' },
+                {_reference: '_.s.kH7Y2.t.tE.e6.e.w7.h4.z4S.b.nA' },
+                {_reference: '_U9K.b.sW.t.uE.e6.e.w7.h4.z4S.b.nA' },
+                {_reference: '_R.m7.f.sW.t.uE.e6.e.w7.h4.z4S.b.nA' },
+                {_reference: '_.p.hK.g.sG.t.tE.e6.e.w7.h4.z4S.b.nA' }
+            ]
+        }
+		,
+        {
+            title: 'UC02SN',
+            id: '_.p.hK.g.sG.t.tE.e6.e.w7.h4.z4S.b.nA',
+            object: '_.p.hK.g.sG.t.tE.e6.e.w7.h4.z4S.b.nA-content.html',
+            icon: 'icon1802255137',
+            children: [
+                {_reference: '_.xW.uL.o2.wFE.e6.o.j.q.j6.u.q2.iP.w' },
+                {_reference: '_14.k.mM2.wFE.e6.o.j.q.j6.u.q2.iP.w' },
+                {_reference: '_76BLQ2.wFE.e6.o.j.q.j6.u.q2.iP.w' },
+                {_reference: '_9.p.w.q.k2.wFE.e6.o.j.q.j6.u.q2.iP.w' },
+                {_reference: '_AWP.e82.wGE.e6.o.j.q.j6.u.q2.iP.w' },
+                {_reference: '_NUHD.k2.wGE.e6.o.j.q.j6.u.q2.iP.w' },
+                {_reference: '_Q.zO102.wGE.e6.o.j.q.j6.u.q2.iP.w' },
+                {_reference: '_WGHE.s2.wGE.e6.o.j.q.j6.u.q2.iP.w' },
+                {_reference: '_.b.j_C.o2.wGE.e6.o.j.q.j6.u.q2.iP.w' },
+                {_reference: '_.d0.jXE2.wGE.e6.o.j.q.j6.u.q2.iP.w' },
+                {_reference: '_.s.kUI.oG.t.tE.e6.e.w7.h4.z4S.b.nA' },
+                {_reference: '_.s.kUI.o2.t.tE.e6.e.w7.h4.z4S.b.nA' },
+                {_reference: '_.i.d.hCV.m.t.uE.e6.e.w7.h4.z4S.b.nA' },
+                {_reference: '_.lW.v5QG.t.uE.e6.e.w7.h4.z4S.b.nA' },
+                {_reference: '_NUHD.kG.wGE.e6.o.j.q.j6.u.q2.iP.w' },
+                {_reference: '_NUHD.lW.wGE.e6.o.j.q.j6.u.q2.iP.w' },
+                {_reference: '_AWP.e8G.wGE.e6.o.j.q.j6.u.q2.iP.w' },
+                {_reference: '_AWP.e9W.wGE.e6.o.j.q.j6.u.q2.iP.w' },
+                {_reference: '_9.p.w.q.kG.wFE.e6.o.j.q.j6.u.q2.iP.w' },
+                {_reference: '_9.p.w.q.lW.wFE.e6.o.j.q.j6.u.q2.iP.w' },
+                {_reference: '_ZW1.x.sG.t.uE.e6.e.w7.h4.z4S.b.nA' },
+                {_reference: '_14.k.mMG.wFE.e6.o.j.q.j6.u.q2.iP.w' },
+                {_reference: '_14.k.mNW.wFE.e6.o.j.q.j6.u.q2.iP.w' },
+                {_reference: '_76BLQG.wFE.e6.o.j.q.j6.u.q2.iP.w' },
+                {_reference: '_76BLRW.wFE.e6.o.j.q.j6.u.q2.iP.w' },
+                {_reference: '_.d0.jXEG.wGE.e6.o.j.q.j6.u.q2.iP.w' },
+                {_reference: '_.d0.jXFW.wGE.e6.o.j.q.j6.u.q2.iP.w' },
+                {_reference: '_WGHE.sG.wGE.e6.o.j.q.j6.u.q2.iP.w' },
+                {_reference: '_WGHE.tW.wGE.e6.o.j.q.j6.u.q2.iP.w' },
+                {_reference: '_.xW.uL.oG.wFE.e6.o.j.q.j6.u.q2.iP.w' },
+                {_reference: '_.xW.uL.pW.wFE.e6.o.j.q.j6.u.q2.iP.w' },
+                {_reference: '_U9K.b.sG.t.uE.e6.e.w7.h4.z4S.b.nA' },
+                {_reference: '_.b.j_C.oG.wGE.e6.o.j.q.j6.u.q2.iP.w' },
+                {_reference: '_.b.j_C.pW.wGE.e6.o.j.q.j6.u.q2.iP.w' },
+                {_reference: '_Q.zO10G.wGE.e6.o.j.q.j6.u.q2.iP.w' },
+                {_reference: '_Q.zO11W.wGE.e6.o.j.q.j6.u.q2.iP.w' }
+            ]
+        }
+		,
+        {
+            title: '',
+            id: '_.s.kUI.oG.t.tE.e6.e.w7.h4.z4S.b.nA',
+            object: '_.s.kUI.oG.t.tE.e6.e.w7.h4.z4S.b.nA-content.html',
+            icon: 'icon-1870060971'
+        }
+		,
+        {
+            title: '',
+            id: '_.s.kUI.o2.t.tE.e6.e.w7.h4.z4S.b.nA',
+            object: '_.s.kUI.o2.t.tE.e6.e.w7.h4.z4S.b.nA-content.html',
+            icon: 'icon-1870060971'
+        }
+		,
+        {
+            title: '',
+            id: '_.i.d.hCV.m.t.uE.e6.e.w7.h4.z4S.b.nA',
+            object: '_.i.d.hCV.m.t.uE.e6.e.w7.h4.z4S.b.nA-content.html',
+            icon: 'icon-1870060971'
+        }
+		,
+        {
+            title: '',
+            id: '_.lW.v5QG.t.uE.e6.e.w7.h4.z4S.b.nA',
+            object: '_.lW.v5QG.t.uE.e6.e.w7.h4.z4S.b.nA-content.html',
+            icon: 'icon-1870060971'
+        }
+		,
+        {
+            title: 'auteur',
+            id: '_ZW1.x.sG.t.uE.e6.e.w7.h4.z4S.b.nA',
+            object: '_.p.hK.g.sG.t.tE.e6.e.w7.h4.z4S.b.nA-content.html#_ZW1.x.sG.t.uE.e6.e.w7.h4.z4S.b.nA',
+            icon: 'icon-1077014729'
+        }
+		,
+        {
+            title: 'systeme',
+            id: '_U9K.b.sG.t.uE.e6.e.w7.h4.z4S.b.nA',
+            object: '_.p.hK.g.sG.t.tE.e6.e.w7.h4.z4S.b.nA-content.html#_U9K.b.sG.t.uE.e6.e.w7.h4.z4S.b.nA',
+            icon: 'icon-1077014729'
+        }
+		,
+        {
+            title: '',
+            id: '_.xW.uL.o2.wFE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_.p.hK.g.sG.t.tE.e6.e.w7.h4.z4S.b.nA-content.html#_.xW.uL.o2.wFE.e6.o.j.q.j6.u.q2.iP.w',
+            icon: 'icon63981087'
+        }
+		,
+        {
+            title: '',
+            id: '_14.k.mM2.wFE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_.p.hK.g.sG.t.tE.e6.e.w7.h4.z4S.b.nA-content.html#_14.k.mM2.wFE.e6.o.j.q.j6.u.q2.iP.w',
+            icon: 'icon63981087'
+        }
+		,
+        {
+            title: '',
+            id: '_76BLQ2.wFE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_.p.hK.g.sG.t.tE.e6.e.w7.h4.z4S.b.nA-content.html#_76BLQ2.wFE.e6.o.j.q.j6.u.q2.iP.w',
+            icon: 'icon63981087'
+        }
+		,
+        {
+            title: '',
+            id: '_9.p.w.q.k2.wFE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_.p.hK.g.sG.t.tE.e6.e.w7.h4.z4S.b.nA-content.html#_9.p.w.q.k2.wFE.e6.o.j.q.j6.u.q2.iP.w',
+            icon: 'icon63981087'
+        }
+		,
+        {
+            title: '',
+            id: '_AWP.e82.wGE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_.p.hK.g.sG.t.tE.e6.e.w7.h4.z4S.b.nA-content.html#_AWP.e82.wGE.e6.o.j.q.j6.u.q2.iP.w',
+            icon: 'icon63981087'
+        }
+		,
+        {
+            title: '',
+            id: '_NUHD.k2.wGE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_.p.hK.g.sG.t.tE.e6.e.w7.h4.z4S.b.nA-content.html#_NUHD.k2.wGE.e6.o.j.q.j6.u.q2.iP.w',
+            icon: 'icon63981087'
+        }
+		,
+        {
+            title: '',
+            id: '_Q.zO102.wGE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_.p.hK.g.sG.t.tE.e6.e.w7.h4.z4S.b.nA-content.html#_Q.zO102.wGE.e6.o.j.q.j6.u.q2.iP.w',
+            icon: 'icon63981087'
+        }
+		,
+        {
+            title: '',
+            id: '_WGHE.s2.wGE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_.p.hK.g.sG.t.tE.e6.e.w7.h4.z4S.b.nA-content.html#_WGHE.s2.wGE.e6.o.j.q.j6.u.q2.iP.w',
+            icon: 'icon63981087'
+        }
+		,
+        {
+            title: '',
+            id: '_.b.j_C.o2.wGE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_.p.hK.g.sG.t.tE.e6.e.w7.h4.z4S.b.nA-content.html#_.b.j_C.o2.wGE.e6.o.j.q.j6.u.q2.iP.w',
+            icon: 'icon63981087'
+        }
+		,
+        {
+            title: '',
+            id: '_.d0.jXE2.wGE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_.p.hK.g.sG.t.tE.e6.e.w7.h4.z4S.b.nA-content.html#_.d0.jXE2.wGE.e6.o.j.q.j6.u.q2.iP.w',
+            icon: 'icon63981087'
+        }
+		,
+        {
+            title: 'optionGererUneSection()',
+            id: '_.xW.uL.oG.wFE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_.xW.uL.oG.wFE.e6.o.j.q.j6.u.q2.iP.w-content.html',
+            icon: 'icon-319793399'
+        }
+		,
+        {
+            title: 'optionGererUneSection()',
+            id: '_.xW.uL.pW.wFE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_.xW.uL.pW.wFE.e6.o.j.q.j6.u.q2.iP.w-content.html',
+            icon: 'icon-217990891'
+        }
+		,
+        {
+            title: 'choisir("creer","modifier","supprimer")',
+            id: '_14.k.mMG.wFE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_14.k.mMG.wFE.e6.o.j.q.j6.u.q2.iP.w-content.html',
+            icon: 'icon-319793399'
+        }
+		,
+        {
+            title: 'choisir("creer","modifier","supprimer")',
+            id: '_14.k.mNW.wFE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_14.k.mNW.wFE.e6.o.j.q.j6.u.q2.iP.w-content.html',
+            icon: 'icon-217990891'
+        }
+		,
+        {
+            title: 'creer(True)',
+            id: '_76BLQG.wFE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_76BLQG.wFE.e6.o.j.q.j6.u.q2.iP.w-content.html',
+            icon: 'icon-319793399'
+        }
+		,
+        {
+            title: 'creer(True)',
+            id: '_76BLRW.wFE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_76BLRW.wFE.e6.o.j.q.j6.u.q2.iP.w-content.html',
+            icon: 'icon-217990891'
+        }
+		,
+        {
+            title: 'appliquerUnId()',
+            id: '_9.p.w.q.kG.wFE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_9.p.w.q.kG.wFE.e6.o.j.q.j6.u.q2.iP.w-content.html',
+            icon: 'icon-319793399'
+        }
+		,
+        {
+            title: 'appliquerUnId()',
+            id: '_9.p.w.q.lW.wFE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_9.p.w.q.lW.wFE.e6.o.j.q.j6.u.q2.iP.w-content.html',
+            icon: 'icon-217990891'
+        }
+		,
+        {
+            title: 'appelAGererObjet()',
+            id: '_AWP.e8G.wGE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_AWP.e8G.wGE.e6.o.j.q.j6.u.q2.iP.w-content.html',
+            icon: 'icon-319793399'
+        }
+		,
+        {
+            title: 'appelAGererObjet()',
+            id: '_AWP.e9W.wGE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_AWP.e9W.wGE.e6.o.j.q.j6.u.q2.iP.w-content.html',
+            icon: 'icon-217990891'
+        }
+		,
+        {
+            title: 'afficherFormulaire()',
+            id: '_NUHD.kG.wGE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_NUHD.kG.wGE.e6.o.j.q.j6.u.q2.iP.w-content.html',
+            icon: 'icon-319793399'
+        }
+		,
+        {
+            title: 'afficherFormulaire()',
+            id: '_NUHD.lW.wGE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_NUHD.lW.wGE.e6.o.j.q.j6.u.q2.iP.w-content.html',
+            icon: 'icon-217990891'
+        }
+		,
+        {
+            title: 'validerTexte(True)',
+            id: '_Q.zO10G.wGE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_Q.zO10G.wGE.e6.o.j.q.j6.u.q2.iP.w-content.html',
+            icon: 'icon-319793399'
+        }
+		,
+        {
+            title: 'validerTexte(True)',
+            id: '_Q.zO11W.wGE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_Q.zO11W.wGE.e6.o.j.q.j6.u.q2.iP.w-content.html',
+            icon: 'icon-217990891'
+        }
+		,
+        {
+            title: 'formulairePourAjouterTexte()',
+            id: '_WGHE.sG.wGE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_WGHE.sG.wGE.e6.o.j.q.j6.u.q2.iP.w-content.html',
+            icon: 'icon-319793399'
+        }
+		,
+        {
+            title: 'formulairePourAjouterTexte()',
+            id: '_WGHE.tW.wGE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_WGHE.tW.wGE.e6.o.j.q.j6.u.q2.iP.w-content.html',
+            icon: 'icon-217990891'
+        }
+		,
+        {
+            title: 'valider(True)',
+            id: '_.b.j_C.oG.wGE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_.b.j_C.oG.wGE.e6.o.j.q.j6.u.q2.iP.w-content.html',
+            icon: 'icon-319793399'
+        }
+		,
+        {
+            title: 'valider(True)',
+            id: '_.b.j_C.pW.wGE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_.b.j_C.pW.wGE.e6.o.j.q.j6.u.q2.iP.w-content.html',
+            icon: 'icon-217990891'
+        }
+		,
+        {
+            title: 'creerSection()',
+            id: '_.d0.jXEG.wGE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_.d0.jXEG.wGE.e6.o.j.q.j6.u.q2.iP.w-content.html',
+            icon: 'icon-319793399'
+        }
+		,
+        {
+            title: 'creerSection()',
+            id: '_.d0.jXFW.wGE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_.d0.jXFW.wGE.e6.o.j.q.j6.u.q2.iP.w-content.html',
+            icon: 'icon-217990891'
+        }
+		,
+        {
+            title: 'auteur',
+            id: '_.s.kH7Y.m.t.tE.e6.e.w7.h4.z4S.b.nA',
+            object: '_.p.g-T.cG.t.tE.e6.e.w7.h4.z4S.b.nA-content.html#_.s.kH7Y.m.t.tE.e6.e.w7.h4.z4S.b.nA',
+            icon: 'icon-1982362002'
+        }
+		,
+        {
+            title: 'systeme',
+            id: '_.s.kH7Y2.t.tE.e6.e.w7.h4.z4S.b.nA',
+            object: '_.p.g-T.cG.t.tE.e6.e.w7.h4.z4S.b.nA-content.html#_.s.kH7Y2.t.tE.e6.e.w7.h4.z4S.b.nA',
+            icon: 'icon-1982362002'
+        }
+		,
+        {
+            title: 'auteur2',
+            id: '_.xALP8W.t.tE.e6.e.w7.h4.z4S.b.nA',
+            object: '_.p.g-T.cG.t.tE.e6.e.w7.h4.z4S.b.nA-content.html#_.xALP8W.t.tE.e6.e.w7.h4.z4S.b.nA',
+            icon: 'icon-1982362002'
+        }
+		,
+        {
+            title: 'auetur',
+            id: '_G.bLY8W.t.uE.e6.e.w7.h4.z4S.b.nA',
+            object: '_.p.g-T.cG.t.tE.e6.e.w7.h4.z4S.b.nA-content.html#_G.bLY8W.t.uE.e6.e.w7.h4.z4S.b.nA',
+            icon: 'icon-1982362002'
+        }
+		,
+        {
+            title: 'systeme2',
+            id: '_R.m7.f.sW.t.uE.e6.e.w7.h4.z4S.b.nA',
+            object: '_.p.g-T.cG.t.tE.e6.e.w7.h4.z4S.b.nA-content.html#_R.m7.f.sW.t.uE.e6.e.w7.h4.z4S.b.nA',
+            icon: 'icon-1982362002'
+        }
+		,
+        {
+            title: 'systeme',
+            id: '_U9K.b.sW.t.uE.e6.e.w7.h4.z4S.b.nA',
+            object: '_.p.g-T.cG.t.tE.e6.e.w7.h4.z4S.b.nA-content.html#_U9K.b.sW.t.uE.e6.e.w7.h4.z4S.b.nA',
+            icon: 'icon-1982362002'
+        }
+		,
+        {
+            title: 'auteur',
+            id: '_ZW6.qMG.t.uE.e6.e.w7.h4.z4S.b.nA',
+            object: '_.p.g-T.cG.t.tE.e6.e.w7.h4.z4S.b.nA-content.html#_ZW6.qMG.t.uE.e6.e.w7.h4.z4S.b.nA',
+            icon: 'icon-1982362002'
+        }
+		,
+        {
+            title: 'auteur',
+            id: '_.w.qFEIG.t.tE.e6.e.w7.h4.z4S.b.nA',
+            object: '_.w.qFEIG.t.tE.e6.e.w7.h4.z4S.b.nA-content.html',
+            icon: 'icon-2119003576'
+        }
+		,
+        {
+            title: 'auteur',
+            id: '_GG.m3IG.t.uE.e6.e.w7.h4.z4S.b.nA',
+            object: '_GG.m3IG.t.uE.e6.e.w7.h4.z4S.b.nA-content.html',
+            icon: 'icon-2119003576'
+        }
+		,
+        {
+            title: 'systeme',
+            id: '_RPGO.gG.t.uE.e6.e.w7.h4.z4S.b.nA',
+            object: '_RPGO.gG.t.uE.e6.e.w7.h4.z4S.b.nA-content.html',
+            icon: 'icon-2119003576'
+        }
+		,
+        {
+            title: 'Collaboration9',
+            id: '_71S.uMG.wDE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_71S.uMG.wDE.e6.o.j.q.j6.u.q2.iP.w-content.html',
+            icon: 'icon-879044931',
+            children: [
+                {_reference: '_UE669G.wEE.e6.o.j.q.j6.u.q2.iP.w' },
+                {_reference: '_UE6682.wEE.e6.o.j.q.j6.u.q2.iP.w' },
+                {_reference: '_71.x2YG.wDE.e6.o.j.q.j6.u.q2.iP.w' }
+            ]
+        }
+		,
+        {
+            title: 'UC02ALT1',
+            id: '_71.x2YG.wDE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_71.x2YG.wDE.e6.o.j.q.j6.u.q2.iP.w-content.html',
+            icon: 'icon1802255137',
+            children: [
+                {_reference: '_.jT.e.d42.wGE.e6.o.j.q.j6.u.q2.iP.w' },
+                {_reference: '_.jT.e.d5.m.wGE.e6.o.j.q.j6.u.q2.iP.w' },
+                {_reference: '_.jT.jWZG.wGE.e6.o.j.q.j6.u.q2.iP.w' },
+                {_reference: '_.jT.jWZ2.wGE.e6.o.j.q.j6.u.q2.iP.w' },
+                {_reference: '_.jT.oO72.wGE.e6.o.j.q.j6.u.q2.iP.w' },
+                {_reference: '_.jT.oO8.m.wGE.e6.o.j.q.j6.u.q2.iP.w' },
+                {_reference: '_UFO.dDG.wEE.e6.o.j.q.j6.u.q2.iP.w' },
+                {_reference: '_UFO.dD2.wEE.e6.o.j.q.j6.u.q2.iP.w' },
+                {_reference: '_.jT.tH.cW.wGE.e6.o.j.q.j6.u.q2.iP.w' },
+                {_reference: '_.jT.tH.d.m.wGE.e6.o.j.q.j6.u.q2.iP.w' },
+                {_reference: '_UE668W.wEE.e6.o.j.q.j6.u.q2.iP.w' },
+                {_reference: '_.jT.tHZ.m.wGE.e6.o.j.q.j6.u.q2.iP.w' },
+                {_reference: '_.jT.tH.dG.wGE.e6.o.j.q.j6.u.q2.iP.w' },
+                {_reference: '_.jT.tH.aG.wGE.e6.o.j.q.j6.u.q2.iP.w' },
+                {_reference: '_.jT.tH.cG.wGE.e6.o.j.q.j6.u.q2.iP.w' },
+                {_reference: '_.jT.tH.aW.wGE.e6.o.j.q.j6.u.q2.iP.w' },
+                {_reference: '_.jT.tH.bG.wGE.e6.o.j.q.j6.u.q2.iP.w' },
+                {_reference: '_.jT.tHY2.wGE.e6.o.j.q.j6.u.q2.iP.w' },
+                {_reference: '_.jT.tH.b2.wGE.e6.o.j.q.j6.u.q2.iP.w' },
+                {_reference: '_UE668.m.wEE.e6.o.j.q.j6.u.q2.iP.w' },
+                {_reference: '_.jT.tH.bW.wGE.e6.o.j.q.j6.u.q2.iP.w' },
+                {_reference: '_.jT.tH.b.m.wGE.e6.o.j.q.j6.u.q2.iP.w' }
+            ]
+        }
+		,
+        {
+            title: '',
+            id: '_UFO.dDG.wEE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_UFO.dDG.wEE.e6.o.j.q.j6.u.q2.iP.w-content.html',
+            icon: 'icon-1870060971'
+        }
+		,
+        {
+            title: '',
+            id: '_UFO.dD2.wEE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_UFO.dD2.wEE.e6.o.j.q.j6.u.q2.iP.w-content.html',
+            icon: 'icon-1870060971'
+        }
+		,
+        {
+            title: 'auteur',
+            id: '_UE668W.wEE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_71.x2YG.wDE.e6.o.j.q.j6.u.q2.iP.w-content.html#_UE668W.wEE.e6.o.j.q.j6.u.q2.iP.w',
+            icon: 'icon-1077014729'
+        }
+		,
+        {
+            title: 'systeme',
+            id: '_UE668.m.wEE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_71.x2YG.wDE.e6.o.j.q.j6.u.q2.iP.w-content.html#_UE668.m.wEE.e6.o.j.q.j6.u.q2.iP.w',
+            icon: 'icon-1077014729'
+        }
+		,
+        {
+            title: '',
+            id: '_.jT.e.d42.wGE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_71.x2YG.wDE.e6.o.j.q.j6.u.q2.iP.w-content.html#_.jT.e.d42.wGE.e6.o.j.q.j6.u.q2.iP.w',
+            icon: 'icon63981087'
+        }
+		,
+        {
+            title: '',
+            id: '_.jT.e.d5.m.wGE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_71.x2YG.wDE.e6.o.j.q.j6.u.q2.iP.w-content.html#_.jT.e.d5.m.wGE.e6.o.j.q.j6.u.q2.iP.w',
+            icon: 'icon63981087'
+        }
+		,
+        {
+            title: '',
+            id: '_.jT.jWZG.wGE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_71.x2YG.wDE.e6.o.j.q.j6.u.q2.iP.w-content.html#_.jT.jWZG.wGE.e6.o.j.q.j6.u.q2.iP.w',
+            icon: 'icon63981087'
+        }
+		,
+        {
+            title: '',
+            id: '_.jT.jWZ2.wGE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_71.x2YG.wDE.e6.o.j.q.j6.u.q2.iP.w-content.html#_.jT.jWZ2.wGE.e6.o.j.q.j6.u.q2.iP.w',
+            icon: 'icon63981087'
+        }
+		,
+        {
+            title: '',
+            id: '_.jT.oO72.wGE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_71.x2YG.wDE.e6.o.j.q.j6.u.q2.iP.w-content.html#_.jT.oO72.wGE.e6.o.j.q.j6.u.q2.iP.w',
+            icon: 'icon63981087'
+        }
+		,
+        {
+            title: '',
+            id: '_.jT.oO8.m.wGE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_71.x2YG.wDE.e6.o.j.q.j6.u.q2.iP.w-content.html#_.jT.oO8.m.wGE.e6.o.j.q.j6.u.q2.iP.w',
+            icon: 'icon63981087'
+        }
+		,
+        {
+            title: 'optionGererUneSection()',
+            id: '_.jT.tHY2.wGE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_.jT.tHY2.wGE.e6.o.j.q.j6.u.q2.iP.w-content.html',
+            icon: 'icon-319793399'
+        }
+		,
+        {
+            title: 'choisir("creer","modifier","supprimer")',
+            id: '_.jT.tHZ.m.wGE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_.jT.tHZ.m.wGE.e6.o.j.q.j6.u.q2.iP.w-content.html',
+            icon: 'icon-217990891'
+        }
+		,
+        {
+            title: 'modifier(True)',
+            id: '_.jT.tH.aG.wGE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_.jT.tH.aG.wGE.e6.o.j.q.j6.u.q2.iP.w-content.html',
+            icon: 'icon-319793399'
+        }
+		,
+        {
+            title: 'modifierSection()',
+            id: '_.jT.tH.aW.wGE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_.jT.tH.aW.wGE.e6.o.j.q.j6.u.q2.iP.w-content.html',
+            icon: 'icon-217990891'
+        }
+		,
+        {
+            title: 'modifierSection()',
+            id: '_.jT.tH.bG.wGE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_.jT.tH.bG.wGE.e6.o.j.q.j6.u.q2.iP.w-content.html',
+            icon: 'icon-319793399'
+        }
+		,
+        {
+            title: 'valider(True)',
+            id: '_.jT.tH.bW.wGE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_.jT.tH.bW.wGE.e6.o.j.q.j6.u.q2.iP.w-content.html',
+            icon: 'icon-217990891'
+        }
+		,
+        {
+            title: 'valider(True)',
+            id: '_.jT.tH.b.m.wGE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_.jT.tH.b.m.wGE.e6.o.j.q.j6.u.q2.iP.w-content.html',
+            icon: 'icon-319793399'
+        }
+		,
+        {
+            title: 'optionGererUneSection()',
+            id: '_.jT.tH.b2.wGE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_.jT.tH.b2.wGE.e6.o.j.q.j6.u.q2.iP.w-content.html',
+            icon: 'icon-217990891'
+        }
+		,
+        {
+            title: 'modifier(True)',
+            id: '_.jT.tH.cG.wGE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_.jT.tH.cG.wGE.e6.o.j.q.j6.u.q2.iP.w-content.html',
+            icon: 'icon-217990891'
+        }
+		,
+        {
+            title: 'afficherSection()',
+            id: '_.jT.tH.cW.wGE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_.jT.tH.cW.wGE.e6.o.j.q.j6.u.q2.iP.w-content.html',
+            icon: 'icon-217990891'
+        }
+		,
+        {
+            title: 'choisir("creer","modifier","supprimer")',
+            id: '_.jT.tH.dG.wGE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_.jT.tH.dG.wGE.e6.o.j.q.j6.u.q2.iP.w-content.html',
+            icon: 'icon-319793399'
+        }
+		,
+        {
+            title: 'afficherSection()',
+            id: '_.jT.tH.d.m.wGE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_.jT.tH.d.m.wGE.e6.o.j.q.j6.u.q2.iP.w-content.html',
+            icon: 'icon-319793399'
+        }
+		,
+        {
+            title: 'systeme',
+            id: '_UE6682.wEE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_71S.uMG.wDE.e6.o.j.q.j6.u.q2.iP.w-content.html#_UE6682.wEE.e6.o.j.q.j6.u.q2.iP.w',
+            icon: 'icon-1982362002'
+        }
+		,
+        {
+            title: 'auteur',
+            id: '_UE669G.wEE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_71S.uMG.wDE.e6.o.j.q.j6.u.q2.iP.w-content.html#_UE669G.wEE.e6.o.j.q.j6.u.q2.iP.w',
+            icon: 'icon-1982362002'
+        }
+		,
+        {
+            title: 'Collaboration10',
+            id: '_.zIC.i0G.wGE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_.zIC.i0G.wGE.e6.o.j.q.j6.u.q2.iP.w-content.html',
+            icon: 'icon-879044931',
+            children: [
+                {_reference: '_0C3MVG.wGE.e6.o.j.q.j6.u.q2.iP.w' },
+                {_reference: '_0C3MU2.wGE.e6.o.j.q.j6.u.q2.iP.w' },
+                {_reference: '_.zIH.bUG.wGE.e6.o.j.q.j6.u.q2.iP.w' }
+            ]
+        }
+		,
+        {
+            title: 'UC02ALT2',
+            id: '_.zIH.bUG.wGE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_.zIH.bUG.wGE.e6.o.j.q.j6.u.q2.iP.w-content.html',
+            icon: 'icon1802255137',
+            children: [
+                {_reference: '_0C3MV2.wGE.e6.o.j.q.j6.u.q2.iP.w' },
+                {_reference: '_0C3MW.m.wGE.e6.o.j.q.j6.u.q2.iP.w' },
+                {_reference: '_0C8E0W.wGE.e6.o.j.q.j6.u.q2.iP.w' },
+                {_reference: '_0C8E1G.wGE.e6.o.j.q.j6.u.q2.iP.w' },
+                {_reference: '__.a1KI2.wGE.e6.o.j.q.j6.u.q2.iP.w' },
+                {_reference: '_0C8E22.wGE.e6.o.j.q.j6.u.q2.iP.w' },
+                {_reference: '_0C8E3.m.wGE.e6.o.j.q.j6.u.q2.iP.w' },
+                {_reference: '_0DB.k.b.m.wGE.e6.o.j.q.j6.u.q2.iP.w' },
+                {_reference: '_0DB.k.cW.wGE.e6.o.j.q.j6.u.q2.iP.w' },
+                {_reference: '_0DB.k.aW.wGE.e6.o.j.q.j6.u.q2.iP.w' },
+                {_reference: '_0DB.k.bG.wGE.e6.o.j.q.j6.u.q2.iP.w' },
+                {_reference: '_0C3MUW.wGE.e6.o.j.q.j6.u.q2.iP.w' },
+                {_reference: '_0DB.kY.m.wGE.e6.o.j.q.j6.u.q2.iP.w' },
+                {_reference: '_0DB.kZW.wGE.e6.o.j.q.j6.u.q2.iP.w' },
+                {_reference: '_0DB.kZG.wGE.e6.o.j.q.j6.u.q2.iP.w' },
+                {_reference: '_0DB.k.aG.wGE.e6.o.j.q.j6.u.q2.iP.w' },
+                {_reference: '__.a1KIG.wGE.e6.o.j.q.j6.u.q2.iP.w' },
+                {_reference: '__.a1KJW.wGE.e6.o.j.q.j6.u.q2.iP.w' },
+                {_reference: '_0DB.kZ.m.wGE.e6.o.j.q.j6.u.q2.iP.w' },
+                {_reference: '_0DB.k.a.m.wGE.e6.o.j.q.j6.u.q2.iP.w' },
+                {_reference: '_0DB.kZ2.wGE.e6.o.j.q.j6.u.q2.iP.w' },
+                {_reference: '_0DB.k.a2.wGE.e6.o.j.q.j6.u.q2.iP.w' },
+                {_reference: '_0C3MU.m.wGE.e6.o.j.q.j6.u.q2.iP.w' },
+                {_reference: '_0DB.kY2.wGE.e6.o.j.q.j6.u.q2.iP.w' },
+                {_reference: '_0DB.k.bW.wGE.e6.o.j.q.j6.u.q2.iP.w' }
+            ]
+        }
+		,
+        {
+            title: '',
+            id: '_0DB.k.b.m.wGE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_0DB.k.b.m.wGE.e6.o.j.q.j6.u.q2.iP.w-content.html',
+            icon: 'icon-1870060971'
+        }
+		,
+        {
+            title: '',
+            id: '_0DB.k.cW.wGE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_0DB.k.cW.wGE.e6.o.j.q.j6.u.q2.iP.w-content.html',
+            icon: 'icon-1870060971'
+        }
+		,
+        {
+            title: 'auteur',
+            id: '_0C3MUW.wGE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_.zIH.bUG.wGE.e6.o.j.q.j6.u.q2.iP.w-content.html#_0C3MUW.wGE.e6.o.j.q.j6.u.q2.iP.w',
+            icon: 'icon-1077014729'
+        }
+		,
+        {
+            title: 'systeme',
+            id: '_0C3MU.m.wGE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_.zIH.bUG.wGE.e6.o.j.q.j6.u.q2.iP.w-content.html#_0C3MU.m.wGE.e6.o.j.q.j6.u.q2.iP.w',
+            icon: 'icon-1077014729'
+        }
+		,
+        {
+            title: '',
+            id: '_0C3MV2.wGE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_.zIH.bUG.wGE.e6.o.j.q.j6.u.q2.iP.w-content.html#_0C3MV2.wGE.e6.o.j.q.j6.u.q2.iP.w',
+            icon: 'icon63981087'
+        }
+		,
+        {
+            title: '',
+            id: '_0C3MW.m.wGE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_.zIH.bUG.wGE.e6.o.j.q.j6.u.q2.iP.w-content.html#_0C3MW.m.wGE.e6.o.j.q.j6.u.q2.iP.w',
+            icon: 'icon63981087'
+        }
+		,
+        {
+            title: '',
+            id: '_0C8E0W.wGE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_.zIH.bUG.wGE.e6.o.j.q.j6.u.q2.iP.w-content.html#_0C8E0W.wGE.e6.o.j.q.j6.u.q2.iP.w',
+            icon: 'icon63981087'
+        }
+		,
+        {
+            title: '',
+            id: '_0C8E1G.wGE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_.zIH.bUG.wGE.e6.o.j.q.j6.u.q2.iP.w-content.html#_0C8E1G.wGE.e6.o.j.q.j6.u.q2.iP.w',
+            icon: 'icon63981087'
+        }
+		,
+        {
+            title: '',
+            id: '__.a1KI2.wGE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_.zIH.bUG.wGE.e6.o.j.q.j6.u.q2.iP.w-content.html#__.a1KI2.wGE.e6.o.j.q.j6.u.q2.iP.w',
+            icon: 'icon63981087'
+        }
+		,
+        {
+            title: '',
+            id: '_0C8E22.wGE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_.zIH.bUG.wGE.e6.o.j.q.j6.u.q2.iP.w-content.html#_0C8E22.wGE.e6.o.j.q.j6.u.q2.iP.w',
+            icon: 'icon63981087'
+        }
+		,
+        {
+            title: '',
+            id: '_0C8E3.m.wGE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_.zIH.bUG.wGE.e6.o.j.q.j6.u.q2.iP.w-content.html#_0C8E3.m.wGE.e6.o.j.q.j6.u.q2.iP.w',
+            icon: 'icon63981087'
+        }
+		,
+        {
+            title: 'choisir("creer","modifier","supprimer")',
+            id: '_0DB.kY.m.wGE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_0DB.kY.m.wGE.e6.o.j.q.j6.u.q2.iP.w-content.html',
+            icon: 'icon-217990891'
+        }
+		,
+        {
+            title: 'valider(True)',
+            id: '_0DB.kY2.wGE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_0DB.kY2.wGE.e6.o.j.q.j6.u.q2.iP.w-content.html',
+            icon: 'icon-217990891'
+        }
+		,
+        {
+            title: 'optionGererUneSection()',
+            id: '_0DB.kZG.wGE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_0DB.kZG.wGE.e6.o.j.q.j6.u.q2.iP.w-content.html',
+            icon: 'icon-319793399'
+        }
+		,
+        {
+            title: 'choisir("creer","modifier","supprimer")',
+            id: '_0DB.kZW.wGE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_0DB.kZW.wGE.e6.o.j.q.j6.u.q2.iP.w-content.html',
+            icon: 'icon-319793399'
+        }
+		,
+        {
+            title: 'supprimer(True)',
+            id: '_0DB.kZ.m.wGE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_0DB.kZ.m.wGE.e6.o.j.q.j6.u.q2.iP.w-content.html',
+            icon: 'icon-319793399'
+        }
+		,
+        {
+            title: 'supprimerSection()',
+            id: '_0DB.kZ2.wGE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_0DB.kZ2.wGE.e6.o.j.q.j6.u.q2.iP.w-content.html',
+            icon: 'icon-319793399'
+        }
+		,
+        {
+            title: 'optionGererUneSection()',
+            id: '_0DB.k.aG.wGE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_0DB.k.aG.wGE.e6.o.j.q.j6.u.q2.iP.w-content.html',
+            icon: 'icon-217990891'
+        }
+		,
+        {
+            title: 'afficherListeDesSection()',
+            id: '_0DB.k.aW.wGE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_0DB.k.aW.wGE.e6.o.j.q.j6.u.q2.iP.w-content.html',
+            icon: 'icon-319793399'
+        }
+		,
+        {
+            title: 'supprimer(True)',
+            id: '_0DB.k.a.m.wGE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_0DB.k.a.m.wGE.e6.o.j.q.j6.u.q2.iP.w-content.html',
+            icon: 'icon-217990891'
+        }
+		,
+        {
+            title: 'supprimerSection()',
+            id: '_0DB.k.a2.wGE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_0DB.k.a2.wGE.e6.o.j.q.j6.u.q2.iP.w-content.html',
+            icon: 'icon-217990891'
+        }
+		,
+        {
+            title: 'afficherListeDesSection()',
+            id: '_0DB.k.bG.wGE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_0DB.k.bG.wGE.e6.o.j.q.j6.u.q2.iP.w-content.html',
+            icon: 'icon-217990891'
+        }
+		,
+        {
+            title: 'valider(True)',
+            id: '_0DB.k.bW.wGE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_0DB.k.bW.wGE.e6.o.j.q.j6.u.q2.iP.w-content.html',
+            icon: 'icon-319793399'
+        }
+		,
+        {
+            title: 'selectionSection()',
+            id: '__.a1KIG.wGE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '__.a1KIG.wGE.e6.o.j.q.j6.u.q2.iP.w-content.html',
+            icon: 'icon-319793399'
+        }
+		,
+        {
+            title: 'selectionSection()',
+            id: '__.a1KJW.wGE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '__.a1KJW.wGE.e6.o.j.q.j6.u.q2.iP.w-content.html',
+            icon: 'icon-217990891'
+        }
+		,
+        {
+            title: 'systeme',
+            id: '_0C3MU2.wGE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_.zIC.i0G.wGE.e6.o.j.q.j6.u.q2.iP.w-content.html#_0C3MU2.wGE.e6.o.j.q.j6.u.q2.iP.w',
+            icon: 'icon-1982362002'
+        }
+		,
+        {
+            title: 'auteur',
+            id: '_0C3MVG.wGE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_.zIC.i0G.wGE.e6.o.j.q.j6.u.q2.iP.w-content.html#_0C3MVG.wGE.e6.o.j.q.j6.u.q2.iP.w',
+            icon: 'icon-1982362002'
+        }
+		,
+        {
+            title: 'Collaboration11',
+            id: '_H8P.x.kG.wHE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_H8P.x.kG.wHE.e6.o.j.q.j6.u.q2.iP.w-content.html',
+            icon: 'icon-879044931',
+            children: [
+                {_reference: '_IUY.k.xG.wHE.e6.o.j.q.j6.u.q2.iP.w' },
+                {_reference: '_IUY.k.w2.wHE.e6.o.j.q.j6.u.q2.iP.w' },
+                {_reference: '_H8P.x.kW.wHE.e6.o.j.q.j6.u.q2.iP.w' }
+            ]
+        }
+		,
+        {
+            title: 'UC02EX1',
+            id: '_H8P.x.kW.wHE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_H8P.x.kW.wHE.e6.o.j.q.j6.u.q2.iP.w-content.html',
+            icon: 'icon1802255137',
+            children: [
+                {_reference: '_IUY.k.x2.wHE.e6.o.j.q.j6.u.q2.iP.w' },
+                {_reference: '_IU.d.dQ.m.wHE.e6.o.j.q.j6.u.q2.iP.w' },
+                {_reference: '_IU.d.dSW.wHE.e6.o.j.q.j6.u.q2.iP.w' },
+                {_reference: '_IU.d.dTG.wHE.e6.o.j.q.j6.u.q2.iP.w' },
+                {_reference: '_IU.iV0G.wHE.e6.o.j.q.j6.u.q2.iP.w' },
+                {_reference: '_IU.iV02.wHE.e6.o.j.q.j6.u.q2.iP.w' },
+                {_reference: '_IUY.k.wW.wHE.e6.o.j.q.j6.u.q2.iP.w' },
+                {_reference: '_IU.iV.xG.wHE.e6.o.j.q.j6.u.q2.iP.w' },
+                {_reference: '_IU.iV.x2.wHE.e6.o.j.q.j6.u.q2.iP.w' },
+                {_reference: '_IU.iV.x.m.wHE.e6.o.j.q.j6.u.q2.iP.w' },
+                {_reference: '_IU.iV.y.m.wHE.e6.o.j.q.j6.u.q2.iP.w' },
+                {_reference: '_W.oYZYG.wIE.e6.o.j.q.j6.u.q2.iP.w' },
+                {_reference: '_.iT_.r8G.wIE.e6.o.j.q.j6.u.q2.iP.w' },
+                {_reference: '_IU.iV.yG.wHE.e6.o.j.q.j6.u.q2.iP.w' },
+                {_reference: '_IUY.k.w.m.wHE.e6.o.j.q.j6.u.q2.iP.w' },
+                {_reference: '_IU.iV.y2.wHE.e6.o.j.q.j6.u.q2.iP.w' },
+                {_reference: '_IU.iV.z.m.wHE.e6.o.j.q.j6.u.q2.iP.w' }
+            ]
+        }
+		,
+        {
+            title: '',
+            id: '_IU.iV0G.wHE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_IU.iV0G.wHE.e6.o.j.q.j6.u.q2.iP.w-content.html',
+            icon: 'icon-1870060971'
+        }
+		,
+        {
+            title: '',
+            id: '_IU.iV02.wHE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_IU.iV02.wHE.e6.o.j.q.j6.u.q2.iP.w-content.html',
+            icon: 'icon-1870060971'
+        }
+		,
+        {
+            title: 'auteur',
+            id: '_IUY.k.wW.wHE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_H8P.x.kW.wHE.e6.o.j.q.j6.u.q2.iP.w-content.html#_IUY.k.wW.wHE.e6.o.j.q.j6.u.q2.iP.w',
+            icon: 'icon-1077014729'
+        }
+		,
+        {
+            title: 'systeme',
+            id: '_IUY.k.w.m.wHE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_H8P.x.kW.wHE.e6.o.j.q.j6.u.q2.iP.w-content.html#_IUY.k.w.m.wHE.e6.o.j.q.j6.u.q2.iP.w',
+            icon: 'icon-1077014729'
+        }
+		,
+        {
+            title: '',
+            id: '_IUY.k.x2.wHE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_H8P.x.kW.wHE.e6.o.j.q.j6.u.q2.iP.w-content.html#_IUY.k.x2.wHE.e6.o.j.q.j6.u.q2.iP.w',
+            icon: 'icon63981087'
+        }
+		,
+        {
+            title: '',
+            id: '_IU.d.dQ.m.wHE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_H8P.x.kW.wHE.e6.o.j.q.j6.u.q2.iP.w-content.html#_IU.d.dQ.m.wHE.e6.o.j.q.j6.u.q2.iP.w',
+            icon: 'icon63981087'
+        }
+		,
+        {
+            title: '',
+            id: '_IU.d.dSW.wHE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_H8P.x.kW.wHE.e6.o.j.q.j6.u.q2.iP.w-content.html#_IU.d.dSW.wHE.e6.o.j.q.j6.u.q2.iP.w',
+            icon: 'icon63981087'
+        }
+		,
+        {
+            title: '',
+            id: '_IU.d.dTG.wHE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_H8P.x.kW.wHE.e6.o.j.q.j6.u.q2.iP.w-content.html#_IU.d.dTG.wHE.e6.o.j.q.j6.u.q2.iP.w',
+            icon: 'icon63981087'
+        }
+		,
+        {
+            title: 'choisir("creer","modifier","supprimer")',
+            id: '_IU.iV.xG.wHE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_IU.iV.xG.wHE.e6.o.j.q.j6.u.q2.iP.w-content.html',
+            icon: 'icon-217990891'
+        }
+		,
+        {
+            title: 'optionGererUneSection()',
+            id: '_IU.iV.x.m.wHE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_IU.iV.x.m.wHE.e6.o.j.q.j6.u.q2.iP.w-content.html',
+            icon: 'icon-319793399'
+        }
+		,
+        {
+            title: 'choisir("creer","modifier","supprimer")',
+            id: '_IU.iV.x2.wHE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_IU.iV.x2.wHE.e6.o.j.q.j6.u.q2.iP.w-content.html',
+            icon: 'icon-319793399'
+        }
+		,
+        {
+            title: 'supprimer(True)',
+            id: '_IU.iV.yG.wHE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_IU.iV.yG.wHE.e6.o.j.q.j6.u.q2.iP.w-content.html',
+            icon: 'icon-319793399'
+        }
+		,
+        {
+            title: 'optionGererUneSection()',
+            id: '_IU.iV.y.m.wHE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_IU.iV.y.m.wHE.e6.o.j.q.j6.u.q2.iP.w-content.html',
+            icon: 'icon-217990891'
+        }
+		,
+        {
+            title: 'tailleListeSection()',
+            id: '_IU.iV.y2.wHE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_IU.iV.y2.wHE.e6.o.j.q.j6.u.q2.iP.w-content.html',
+            icon: 'icon-319793399'
+        }
+		,
+        {
+            title: 'tailleListeSection()',
+            id: '_IU.iV.z.m.wHE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_IU.iV.z.m.wHE.e6.o.j.q.j6.u.q2.iP.w-content.html',
+            icon: 'icon-217990891'
+        }
+		,
+        {
+            title: 'sectionListCount() <= 0',
+            id: '_W.oYZYG.wIE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_W.oYZYG.wIE.e6.o.j.q.j6.u.q2.iP.w-content.html',
+            icon: 'icon-159747372'
+        }
+		,
+        {
+            title: 'supprimer(False)',
+            id: '_.iT_.r8G.wIE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_.iT_.r8G.wIE.e6.o.j.q.j6.u.q2.iP.w-content.html',
+            icon: 'icon-159747372'
+        }
+		,
+        {
+            title: 'systeme',
+            id: '_IUY.k.w2.wHE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_H8P.x.kG.wHE.e6.o.j.q.j6.u.q2.iP.w-content.html#_IUY.k.w2.wHE.e6.o.j.q.j6.u.q2.iP.w',
+            icon: 'icon-1982362002'
+        }
+		,
+        {
+            title: 'auteur',
+            id: '_IUY.k.xG.wHE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_H8P.x.kG.wHE.e6.o.j.q.j6.u.q2.iP.w-content.html#_IUY.k.xG.wHE.e6.o.j.q.j6.u.q2.iP.w',
+            icon: 'icon-1982362002'
+        }
+		,
+        {
+            title: 'DestructionEvent1',
+            id: '_.iU.i.e.gG.wIE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_.iU.i.e.gG.wIE.e6.o.j.q.j6.u.q2.iP.w-content.html',
+            icon: 'icon1660469002'
+        }
+		,
+        {
+            title: 'Collaboration12',
+            id: '_.uKF.wMG.wIE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_.uKF.wMG.wIE.e6.o.j.q.j6.u.q2.iP.w-content.html',
+            icon: 'icon-879044931',
+            children: [
+                {_reference: '_.uY_.u42.wIE.e6.o.j.q.j6.u.q2.iP.w' },
+                {_reference: '_.uY_.u5G.wIE.e6.o.j.q.j6.u.q2.iP.w' },
+                {_reference: '_.uKF.wMW.wIE.e6.o.j.q.j6.u.q2.iP.w' }
+            ]
+        }
+		,
+        {
+            title: 'UC02EX2',
+            id: '_.uKF.wMW.wIE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_.uKF.wMW.wIE.e6.o.j.q.j6.u.q2.iP.w-content.html',
+            icon: 'icon1802255137',
+            children: [
+                {_reference: '_.uY_.u52.wIE.e6.o.j.q.j6.u.q2.iP.w' },
+                {_reference: '_.uY_.u6.m.wIE.e6.o.j.q.j6.u.q2.iP.w' },
+                {_reference: '_.uY_.u8W.wIE.e6.o.j.q.j6.u.q2.iP.w' },
+                {_reference: '_D.y6S.w2.wJE.e6.o.j.q.j6.u.q2.iP.w' },
+                {_reference: '_.uZE.n.cW.wIE.e6.o.j.q.j6.u.q2.iP.w' },
+                {_reference: '_.uZE.n.dG.wIE.e6.o.j.q.j6.u.q2.iP.w' },
+                {_reference: '_.uY_.u4W.wIE.e6.o.j.q.j6.u.q2.iP.w' },
+                {_reference: '_.uZE.n.aG.wIE.e6.o.j.q.j6.u.q2.iP.w' },
+                {_reference: '_.uZE.n.a2.wIE.e6.o.j.q.j6.u.q2.iP.w' },
+                {_reference: '_IJOL.sG.wJE.e6.o.j.q.j6.u.q2.iP.w' },
+                {_reference: '_.uZE.n.a.m.wIE.e6.o.j.q.j6.u.q2.iP.w' },
+                {_reference: '_.uZE.n.bG.wIE.e6.o.j.q.j6.u.q2.iP.w' },
+                {_reference: '_.uZE.n.b2.wIE.e6.o.j.q.j6.u.q2.iP.w' },
+                {_reference: '_.uZE.n.bW.wIE.e6.o.j.q.j6.u.q2.iP.w' },
+                {_reference: '_D.y6S.wG.wJE.e6.o.j.q.j6.u.q2.iP.w' },
+                {_reference: '_D.y6S.xW.wJE.e6.o.j.q.j6.u.q2.iP.w' },
+                {_reference: '_.uY_.u4.m.wIE.e6.o.j.q.j6.u.q2.iP.w' }
+            ]
+        }
+		,
+        {
+            title: '',
+            id: '_.uZE.n.cW.wIE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_.uZE.n.cW.wIE.e6.o.j.q.j6.u.q2.iP.w-content.html',
+            icon: 'icon-1870060971'
+        }
+		,
+        {
+            title: '',
+            id: '_.uZE.n.dG.wIE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_.uZE.n.dG.wIE.e6.o.j.q.j6.u.q2.iP.w-content.html',
+            icon: 'icon-1870060971'
+        }
+		,
+        {
+            title: 'auteur',
+            id: '_.uY_.u4W.wIE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_.uKF.wMW.wIE.e6.o.j.q.j6.u.q2.iP.w-content.html#_.uY_.u4W.wIE.e6.o.j.q.j6.u.q2.iP.w',
+            icon: 'icon-1077014729'
+        }
+		,
+        {
+            title: 'systeme',
+            id: '_.uY_.u4.m.wIE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_.uKF.wMW.wIE.e6.o.j.q.j6.u.q2.iP.w-content.html#_.uY_.u4.m.wIE.e6.o.j.q.j6.u.q2.iP.w',
+            icon: 'icon-1077014729'
+        }
+		,
+        {
+            title: '',
+            id: '_.uY_.u52.wIE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_.uKF.wMW.wIE.e6.o.j.q.j6.u.q2.iP.w-content.html#_.uY_.u52.wIE.e6.o.j.q.j6.u.q2.iP.w',
+            icon: 'icon63981087'
+        }
+		,
+        {
+            title: '',
+            id: '_.uY_.u6.m.wIE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_.uKF.wMW.wIE.e6.o.j.q.j6.u.q2.iP.w-content.html#_.uY_.u6.m.wIE.e6.o.j.q.j6.u.q2.iP.w',
+            icon: 'icon63981087'
+        }
+		,
+        {
+            title: '',
+            id: '_.uY_.u8W.wIE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_.uKF.wMW.wIE.e6.o.j.q.j6.u.q2.iP.w-content.html#_.uY_.u8W.wIE.e6.o.j.q.j6.u.q2.iP.w',
+            icon: 'icon63981087'
+        }
+		,
+        {
+            title: '',
+            id: '_D.y6S.w2.wJE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_.uKF.wMW.wIE.e6.o.j.q.j6.u.q2.iP.w-content.html#_D.y6S.w2.wJE.e6.o.j.q.j6.u.q2.iP.w',
+            icon: 'icon63981087'
+        }
+		,
+        {
+            title: 'choisir("creer","modifier","supprimer")',
+            id: '_.uZE.n.aG.wIE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_.uZE.n.aG.wIE.e6.o.j.q.j6.u.q2.iP.w-content.html',
+            icon: 'icon-217990891'
+        }
+		,
+        {
+            title: 'optionGererUneSection()',
+            id: '_.uZE.n.a.m.wIE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_.uZE.n.a.m.wIE.e6.o.j.q.j6.u.q2.iP.w-content.html',
+            icon: 'icon-319793399'
+        }
+		,
+        {
+            title: 'choisir("creer","modifier","supprimer")',
+            id: '_.uZE.n.a2.wIE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_.uZE.n.a2.wIE.e6.o.j.q.j6.u.q2.iP.w-content.html',
+            icon: 'icon-319793399'
+        }
+		,
+        {
+            title: 'optionGererUneSection()',
+            id: '_.uZE.n.bG.wIE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_.uZE.n.bG.wIE.e6.o.j.q.j6.u.q2.iP.w-content.html',
+            icon: 'icon-217990891'
+        }
+		,
+        {
+            title: 'supprimer(id=0)',
+            id: '_.uZE.n.bW.wIE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_.uZE.n.bW.wIE.e6.o.j.q.j6.u.q2.iP.w-content.html',
+            icon: 'icon-319793399'
+        }
+		,
+        {
+            title: 'supprimer(False)',
+            id: '_.uZE.n.b2.wIE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_.uZE.n.b2.wIE.e6.o.j.q.j6.u.q2.iP.w-content.html',
+            icon: 'icon-159747372'
+        }
+		,
+        {
+            title: 'supprimerSection(id=0)',
+            id: '_D.y6S.wG.wJE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_D.y6S.wG.wJE.e6.o.j.q.j6.u.q2.iP.w-content.html',
+            icon: 'icon-319793399'
+        }
+		,
+        {
+            title: 'supprimerSection(id=0)',
+            id: '_D.y6S.xW.wJE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_D.y6S.xW.wJE.e6.o.j.q.j6.u.q2.iP.w-content.html',
+            icon: 'icon-217990891'
+        }
+		,
+        {
+            title: 'impossibleSupprimer(id=0)',
+            id: '_IJOL.sG.wJE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_IJOL.sG.wJE.e6.o.j.q.j6.u.q2.iP.w-content.html',
+            icon: 'icon-159747372'
+        }
+		,
+        {
+            title: 'auteur',
+            id: '_.uY_.u42.wIE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_.uKF.wMG.wIE.e6.o.j.q.j6.u.q2.iP.w-content.html#_.uY_.u42.wIE.e6.o.j.q.j6.u.q2.iP.w',
+            icon: 'icon-1982362002'
+        }
+		,
+        {
+            title: 'systeme',
+            id: '_.uY_.u5G.wIE.e6.o.j.q.j6.u.q2.iP.w',
+            object: '_.uKF.wMG.wIE.e6.o.j.q.j6.u.q2.iP.w-content.html#_.uY_.u5G.wIE.e6.o.j.q.j6.u.q2.iP.w',
+            icon: 'icon-1982362002'
         }
 		
     ]
