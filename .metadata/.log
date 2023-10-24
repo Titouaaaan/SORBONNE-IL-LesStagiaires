@@ -1,0 +1,55 @@
+!SESSION 2023-10-24 11:53:52.466 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=8.0.5.20 - pwa6480sr5fp20-20180802_01(SR5 FP20)
+JRE 1.8.0 Windows 10 amd64-64-Bit Compressed References 20180731_393394 (JIT enabled, AOT enabled)
+OpenJ9   - bd23af8
+OMR      - ca1411c
+IBM      - 98805ca
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=fr_FR
+Framework arguments:  -product com.ibm.rational.rsa.product.v97.ide
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product com.ibm.rational.rsa.product.v97.ide
+
+!ENTRY org.eclipse.ui 2 2 2023-10-24 11:54:05.221
+!MESSAGE com.ibm.xtools.mde.guidance: Deprecated relationship "fast" should be converted to "stack".
+
+!ENTRY org.eclipse.ui 2 2 2023-10-24 11:54:05.225
+!MESSAGE com.ibm.ccl.erf.ui.views.reportexplorer: Deprecated relationship "fast" should be converted to "stack".
+
+!ENTRY org.eclipse.core.net 1 0 2023-10-24 11:54:09.227
+!MESSAGE System property http.proxyHost is not set but should be proxy.
+
+!ENTRY org.eclipse.core.net 1 0 2023-10-24 11:54:09.228
+!MESSAGE System property http.proxyPort is not set but should be 3128.
+
+!ENTRY org.eclipse.core.net 1 0 2023-10-24 11:54:09.228
+!MESSAGE System property https.proxyHost is not set but should be proxy.
+
+!ENTRY org.eclipse.core.net 1 0 2023-10-24 11:54:09.229
+!MESSAGE System property https.proxyPort is not set but should be 3128.
+
+!ENTRY org.eclipse.core.net 1 0 2023-10-24 11:54:09.230
+!MESSAGE System property socksProxyHost is not set but should be proxy.
+
+!ENTRY org.eclipse.core.net 1 0 2023-10-24 11:54:09.230
+!MESSAGE System property socksProxyPort is not set but should be 3128.
+
+!ENTRY org.eclipse.core.net 1 0 2023-10-24 11:54:09.232
+!MESSAGE System property https.proxyHost is not set but should be proxy.
+
+!ENTRY org.eclipse.core.net 1 0 2023-10-24 11:54:09.233
+!MESSAGE System property https.proxyPort is not set but should be 3128.
+
+!ENTRY org.eclipse.core.net 1 0 2023-10-24 11:54:09.233
+!MESSAGE System property socksProxyHost is not set but should be proxy.
+
+!ENTRY org.eclipse.core.net 1 0 2023-10-24 11:54:09.234
+!MESSAGE System property socksProxyPort is not set but should be 3128.
+
+!ENTRY org.eclipse.core.net 1 0 2023-10-24 11:54:09.235
+!MESSAGE System property socksProxyHost is not set but should be proxy.
+
+!ENTRY org.eclipse.core.net 1 0 2023-10-24 11:54:09.235
+!MESSAGE System property socksProxyPort is not set but should be 3128.
+
+!ENTRY org.eclipse.ui.intro 4 0 2023-10-24 11:54:09.305
+!MESSAGE Un flux RSS "http://www.eclipse.org/home/eclipsenews.rss" est syntaxiquement correct. Les nouvelles de ce site ne sont pas disponibles actuellement.

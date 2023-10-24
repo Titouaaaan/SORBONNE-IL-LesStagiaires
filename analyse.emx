@@ -344,7 +344,7 @@
           <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_r2MHsGFDEe6yHN61_vybTA" id="(0.10314150681123158,0.6399394856278366)"/>
           <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_srHkkGFDEe6yHN61_vybTA" id="(0.3339973439575033,0.9777404451910962)"/>
         </edges>
-        <edges xmi:type="umlnotation:UMLConnector" xmi:id="_u0z08GFDEe6yHN61_vybTA" element="_u0zN4GFDEe6yHN61_vybTA" source="_nAx38GFDEe6yHN61_vybTA" target="_qEVvkGFDEe6yHN61_vybTA" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <edges xmi:type="umlnotation:UMLConnector" xmi:id="_u0z08GFDEe6yHN61_vybTA" element="_u0zN4GFDEe6yHN61_vybTA" source="_qEVvkGFDEe6yHN61_vybTA" target="_nAx38GFDEe6yHN61_vybTA" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
           <children xmi:type="notation:DecorationNode" xmi:id="_u0z08mFDEe6yHN61_vybTA" type="KindLabel">
             <children xmi:type="notation:BasicDecorationNode" xmi:id="_u00cAGFDEe6yHN61_vybTA" type="Stereotype"/>
             <children xmi:type="notation:BasicDecorationNode" xmi:id="_u00cAmFDEe6yHN61_vybTA" type="Kind"/>
@@ -352,7 +352,7 @@
             <layoutConstraint xmi:type="notation:Bounds" xmi:id="_u0z082FDEe6yHN61_vybTA" y="-186"/>
           </children>
           <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_u0z08WFDEe6yHN61_vybTA" points="[-3, -10, -3, 25]$[-3, -10, -3, 25]"/>
-          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_vMulsGFDEe6yHN61_vybTA" id="(0.5151515151515151,0.040090771558245086)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_vMulsGFDEe6yHN61_vybTA" id="(0.6384338793447862,0.9576399394856279)"/>
         </edges>
       </contents>
       <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_6zemYGFDEe6yHN61_vybTA" type="Class" name="diagramme de classe">
@@ -722,9 +722,7 @@
       <ownedUseCase xmi:id="_G_iJAGFDEe6yHN61_vybTA" name="gerer une section" subject="_RTgvsGFCEe6yHN61_vybTA"/>
       <ownedUseCase xmi:id="_KU2fAGFDEe6yHN61_vybTA" name="gerer enchainement" subject="_RTgvsGFCEe6yHN61_vybTA"/>
       <ownedUseCase xmi:id="_kdBhwGFDEe6yHN61_vybTA" name="gerer objets" subject="_RTgvsGFCEe6yHN61_vybTA"/>
-      <ownedUseCase xmi:id="_nAwCwGFDEe6yHN61_vybTA" name="analyser graphe" subject="_RTgvsGFCEe6yHN61_vybTA">
-        <include xmi:id="_u0zN4GFDEe6yHN61_vybTA" addition="_qET6YGFDEe6yHN61_vybTA"/>
-      </ownedUseCase>
+      <ownedUseCase xmi:id="_nAwCwGFDEe6yHN61_vybTA" name="analyser graphe" subject="_RTgvsGFCEe6yHN61_vybTA"/>
       <ownedUseCase xmi:id="_qET6YGFDEe6yHN61_vybTA" name="gerer version de sortie" subject="_RTgvsGFCEe6yHN61_vybTA">
         <eAnnotations xmi:id="_aLWJcGbcEe6epZ5uV9UXXQ" source="uml2.diagrams">
           <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_aLWwgGbcEe6epZ5uV9UXXQ" type="Usecase" name="UsecaseDiagram1">
@@ -734,6 +732,7 @@
         <ownedComment xmi:id="_hSeg0GHREe6q6NCwrQ5pQA" annotatedElement="_qET6YGFDEe6yHN61_vybTA">
           <body>&lt;p>&lt;br>&lt;/p>&lt;p>&lt;/p></body>
         </ownedComment>
+        <include xmi:id="_u0zN4GFDEe6yHN61_vybTA" addition="_nAwCwGFDEe6yHN61_vybTA"/>
       </ownedUseCase>
     </packagedElement>
     <packagedElement xmi:type="uml:Actor" xmi:id="_bTEwIGFCEe6yHN61_vybTA" name="Auteur"/>
