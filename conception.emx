@@ -813,7 +813,7 @@
             </children>
             <layoutConstraint xmi:type="notation:Bounds" xmi:id="_uwresYhaEe6Uf5xpeIZdrw" x="2460" y="615"/>
           </children>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_-WmVkYhYEe6Uf5xpeIZdrw" x="4428" y="2214"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_-WmVkYhYEe6Uf5xpeIZdrw" x="738" y="2337"/>
         </children>
         <children xmi:type="umlnotation:UMLComponent" xmi:id="__K0n0IhYEe6Uf5xpeIZdrw" element="_BoJ8AHJXEe6XuMYCuDbMzQ" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label" showWhiteBox="true">
           <children xmi:type="notation:DecorationNode" xmi:id="__K118IhYEe6Uf5xpeIZdrw" type="ImageCompartment">
@@ -829,7 +829,7 @@
           <children xmi:type="notation:ListCompartment" xmi:id="__K4SMIhYEe6Uf5xpeIZdrw" visible="false" type="RequiredInterfaceListCompartment"/>
           <children xmi:type="notation:ListCompartment" xmi:id="__K4SMYhYEe6Uf5xpeIZdrw" visible="false" type="ProvidedInterfaceListCompartment"/>
           <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="__K45QIhYEe6Uf5xpeIZdrw" visible="false" type="StructureCompartment"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="__K0n0YhYEe6Uf5xpeIZdrw" x="9840" y="2214"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="__K0n0YhYEe6Uf5xpeIZdrw" x="984" y="13776"/>
         </children>
         <children xmi:type="umlnotation:UMLClassifierShape" xmi:id="_AmNAsIhZEe6Uf5xpeIZdrw" element="_AmJ9YIhZEe6Uf5xpeIZdrw" fontName="Segoe UI" fontHeight="8" showListSignature="true" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label" useClassifierShape="true">
           <children xmi:type="notation:DecorationNode" xmi:id="_AmNAsohZEe6Uf5xpeIZdrw" type="ImageCompartment">
@@ -842,7 +842,7 @@
           <children xmi:type="notation:SemanticListCompartment" xmi:id="_AmO144hZEe6Uf5xpeIZdrw" type="AttributeCompartment"/>
           <children xmi:type="notation:SemanticListCompartment" xmi:id="_AmO15IhZEe6Uf5xpeIZdrw" type="OperationCompartment"/>
           <children xmi:type="notation:SemanticListCompartment" xmi:id="_AmPc8IhZEe6Uf5xpeIZdrw" visible="false" type="SignalCompartment"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_AmNAsYhZEe6Uf5xpeIZdrw" x="9840" y="4428"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_AmNAsYhZEe6Uf5xpeIZdrw" x="5289" y="13776"/>
         </children>
         <children xmi:type="umlnotation:UMLComponent" xmi:id="_VtfjgIhZEe6Uf5xpeIZdrw" element="_VtYOwIhZEe6Uf5xpeIZdrw" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label" showWhiteBox="true">
           <children xmi:type="notation:DecorationNode" xmi:id="_VtgKkIhZEe6Uf5xpeIZdrw" type="ImageCompartment">
@@ -858,7 +858,7 @@
           <children xmi:type="notation:ListCompartment" xmi:id="_VtgxpYhZEe6Uf5xpeIZdrw" visible="false" type="RequiredInterfaceListCompartment"/>
           <children xmi:type="notation:ListCompartment" xmi:id="_VtgxpohZEe6Uf5xpeIZdrw" visible="false" type="ProvidedInterfaceListCompartment"/>
           <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_VthYsIhZEe6Uf5xpeIZdrw" visible="false" type="StructureCompartment"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_VtfjgYhZEe6Uf5xpeIZdrw" x="21033" y="246" width="3488" height="1053"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_VtfjgYhZEe6Uf5xpeIZdrw" x="15744" y="246" width="3488" height="1053"/>
         </children>
         <children xmi:type="umlnotation:UMLComponent" xmi:id="_lqiPAIhZEe6Uf5xpeIZdrw" element="_3dI5gHJWEe6XuMYCuDbMzQ" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label" showWhiteBox="true">
           <children xmi:type="notation:DecorationNode" xmi:id="_lqi2EIhZEe6Uf5xpeIZdrw" type="ImageCompartment">
@@ -874,7 +874,7 @@
           <children xmi:type="notation:ListCompartment" xmi:id="_lqkEMIhZEe6Uf5xpeIZdrw" visible="false" type="RequiredInterfaceListCompartment"/>
           <children xmi:type="notation:ListCompartment" xmi:id="_lqkEMYhZEe6Uf5xpeIZdrw" visible="false" type="ProvidedInterfaceListCompartment"/>
           <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_lqkEMohZEe6Uf5xpeIZdrw" visible="false" type="StructureCompartment"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_lqiPAYhZEe6Uf5xpeIZdrw" x="17712" y="2214" height="930"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_lqiPAYhZEe6Uf5xpeIZdrw" x="984" y="18450" height="930"/>
         </children>
         <children xmi:type="umlnotation:UMLComponent" xmi:id="_m7DbsIhZEe6Uf5xpeIZdrw" element="_D5vkIHJXEe6XuMYCuDbMzQ" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label" showWhiteBox="true">
           <children xmi:type="notation:DecorationNode" xmi:id="_m7ECwIhZEe6Uf5xpeIZdrw" type="ImageCompartment">
@@ -913,7 +913,7 @@
           <children xmi:type="notation:ListCompartment" xmi:id="_sOGpsIhZEe6Uf5xpeIZdrw" visible="false" type="RequiredInterfaceListCompartment"/>
           <children xmi:type="notation:ListCompartment" xmi:id="_sOGpsYhZEe6Uf5xpeIZdrw" visible="false" type="ProvidedInterfaceListCompartment"/>
           <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_sOGpsohZEe6Uf5xpeIZdrw" visible="false" type="StructureCompartment"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_sOBxMYhZEe6Uf5xpeIZdrw" x="13653" y="2214"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_sOBxMYhZEe6Uf5xpeIZdrw" x="984" y="15990"/>
         </children>
         <children xmi:type="umlnotation:UMLComponent" xmi:id="_sqTdgIhZEe6Uf5xpeIZdrw" element="_IoYOwIhWEe6Uf5xpeIZdrw" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label" showWhiteBox="true">
           <children xmi:type="notation:DecorationNode" xmi:id="_sqUEkYhZEe6Uf5xpeIZdrw" type="ImageCompartment">
@@ -929,7 +929,7 @@
           <children xmi:type="notation:ListCompartment" xmi:id="_sqVSs4hZEe6Uf5xpeIZdrw" visible="false" type="RequiredInterfaceListCompartment"/>
           <children xmi:type="notation:ListCompartment" xmi:id="_sqV5wIhZEe6Uf5xpeIZdrw" visible="false" type="ProvidedInterfaceListCompartment"/>
           <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_sqV5wYhZEe6Uf5xpeIZdrw" visible="false" type="StructureCompartment"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_sqUEkIhZEe6Uf5xpeIZdrw" x="738" y="2214" height="929"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_sqUEkIhZEe6Uf5xpeIZdrw" x="861" y="10824" height="929"/>
         </children>
         <children xmi:type="umlnotation:UMLClassifierShape" xmi:id="_3X9TAIhZEe6Uf5xpeIZdrw" element="_3X3zcIhZEe6Uf5xpeIZdrw" fontName="Segoe UI" fontHeight="8" showListSignature="true" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label" useClassifierShape="true">
           <children xmi:type="notation:DecorationNode" xmi:id="_3X-hIIhZEe6Uf5xpeIZdrw" type="ImageCompartment">
@@ -942,7 +942,7 @@
           <children xmi:type="notation:SemanticListCompartment" xmi:id="_3YFO0YhZEe6Uf5xpeIZdrw" type="AttributeCompartment"/>
           <children xmi:type="notation:SemanticListCompartment" xmi:id="_3YFO0ohZEe6Uf5xpeIZdrw" type="OperationCompartment"/>
           <children xmi:type="notation:SemanticListCompartment" xmi:id="_3YF14IhZEe6Uf5xpeIZdrw" visible="false" type="SignalCompartment"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_3X9TAYhZEe6Uf5xpeIZdrw" x="15006" y="4428"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_3X9TAYhZEe6Uf5xpeIZdrw" x="5289" y="15990"/>
         </children>
         <children xmi:type="umlnotation:UMLClassifierShape" xmi:id="_7_cbgIhZEe6Uf5xpeIZdrw" element="_7_YKEIhZEe6Uf5xpeIZdrw" fontName="Segoe UI" fontHeight="8" showListSignature="true" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label" useClassifierShape="true">
           <children xmi:type="notation:DecorationNode" xmi:id="_7_dCkIhZEe6Uf5xpeIZdrw" type="ImageCompartment">
@@ -955,7 +955,7 @@
           <children xmi:type="notation:SemanticListCompartment" xmi:id="_7_eQsIhZEe6Uf5xpeIZdrw" type="AttributeCompartment"/>
           <children xmi:type="notation:SemanticListCompartment" xmi:id="_7_eQsYhZEe6Uf5xpeIZdrw" type="OperationCompartment"/>
           <children xmi:type="notation:SemanticListCompartment" xmi:id="_7_eQsohZEe6Uf5xpeIZdrw" visible="false" type="SignalCompartment"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_7_cbgYhZEe6Uf5xpeIZdrw" x="20541" y="4428" width="4725" height="2412"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_7_cbgYhZEe6Uf5xpeIZdrw" x="5289" y="18327" width="4725" height="2412"/>
         </children>
         <children xmi:type="umlnotation:UMLClassifierShape" xmi:id="_Aq4P4IhaEe6Uf5xpeIZdrw" element="_Aqz-cIhaEe6Uf5xpeIZdrw" fontName="Segoe UI" fontHeight="8" showListSignature="true" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label" useClassifierShape="true">
           <children xmi:type="notation:DecorationNode" xmi:id="_Aq4P4ohaEe6Uf5xpeIZdrw" type="ImageCompartment">
@@ -968,7 +968,7 @@
           <children xmi:type="notation:SemanticListCompartment" xmi:id="_Aq9vc4haEe6Uf5xpeIZdrw" type="AttributeCompartment"/>
           <children xmi:type="notation:SemanticListCompartment" xmi:id="_Aq-WgIhaEe6Uf5xpeIZdrw" type="OperationCompartment"/>
           <children xmi:type="notation:SemanticListCompartment" xmi:id="_Aq-WgYhaEe6Uf5xpeIZdrw" visible="false" type="SignalCompartment"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Aq4P4YhaEe6Uf5xpeIZdrw" x="738" y="4428"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Aq4P4YhaEe6Uf5xpeIZdrw" x="5289" y="10824"/>
         </children>
         <children xmi:type="umlnotation:UMLClassifierShape" xmi:id="_fgpqMIhaEe6Uf5xpeIZdrw" element="_jg--AIhYEe6Uf5xpeIZdrw" fontName="Segoe UI" fontHeight="8" showListSignature="true" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label" useClassifierShape="true">
           <children xmi:type="notation:DecorationNode" xmi:id="_fgpqMohaEe6Uf5xpeIZdrw" type="ImageCompartment">
@@ -981,7 +981,7 @@
           <children xmi:type="notation:SemanticListCompartment" xmi:id="_fgqRRIhaEe6Uf5xpeIZdrw" type="AttributeCompartment"/>
           <children xmi:type="notation:SemanticListCompartment" xmi:id="_fgqRRYhaEe6Uf5xpeIZdrw" type="OperationCompartment"/>
           <children xmi:type="notation:SemanticListCompartment" xmi:id="_fgq4UIhaEe6Uf5xpeIZdrw" visible="false" type="SignalCompartment"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_fgpqMYhaEe6Uf5xpeIZdrw" x="5166" y="4428"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_fgpqMYhaEe6Uf5xpeIZdrw" x="5289" y="2337"/>
         </children>
         <element xsi:nil="true"/>
       </contents>
@@ -4630,25 +4630,129 @@
       <interfaceRealization xmi:id="_ArFEMIhaEe6Uf5xpeIZdrw" supplier="_Aqz-cIhaEe6Uf5xpeIZdrw" client="_IoYOwIhWEe6Uf5xpeIZdrw" contract="_Aqz-cIhaEe6Uf5xpeIZdrw"/>
     </packagedElement>
     <packagedElement xmi:type="uml:Interface" xmi:id="_jg--AIhYEe6Uf5xpeIZdrw" name="ILivres">
-      <ownedOperation xmi:id="_66bo0JNdEe6BbNzE7q8tfw" name="loadLivre"/>
-      <ownedOperation xmi:id="_9Ua_AJNdEe6BbNzE7q8tfw" name="saveLivre"/>
-      <ownedOperation xmi:id="__UA4MJNdEe6BbNzE7q8tfw" name="closeLivre"/>
-      <ownedOperation xmi:id="_mhQ60JNeEe6BbNzE7q8tfw" name="createLivre"/>
-      <ownedOperation xmi:id="_jo1VIJNeEe6BbNzE7q8tfw" name="editLivre"/>
-      <ownedOperation xmi:id="_k_lFoJNeEe6BbNzE7q8tfw" name="delLivre"/>
-      <ownedOperation xmi:id="_srdzQJNeEe6BbNzE7q8tfw" name="createSec"/>
-      <ownedOperation xmi:id="_hXAVEJNhEe6BbNzE7q8tfw" name="editSec"/>
-      <ownedOperation xmi:id="_cbJfEJNhEe6BbNzE7q8tfw" name="delSec"/>
-      <ownedOperation xmi:id="_qwlTkJNhEe6BbNzE7q8tfw" name="createEnc"/>
-      <ownedOperation xmi:id="_tc8MIJNhEe6BbNzE7q8tfw" name="editEnc"/>
-      <ownedOperation xmi:id="_xfJdUJNhEe6BbNzE7q8tfw" name="delEnc"/>
-      <ownedOperation xmi:id="_jfcoQJNhEe6BbNzE7q8tfw" name="createObj"/>
-      <ownedOperation xmi:id="_m2zloJNhEe6BbNzE7q8tfw" name="editObj"/>
-      <ownedOperation xmi:id="_oYc-kJNhEe6BbNzE7q8tfw" name="delObj"/>
+      <ownedOperation xmi:id="_mhQ60JNeEe6BbNzE7q8tfw" name="createLivre">
+        <ownedParameter xmi:id="_11kq8JQlEe63E_t-pLVrFw" name="name">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </ownedParameter>
+        <ownedParameter xmi:id="_DKQNEJQmEe63E_t-pLVrFw" name="auteur">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </ownedParameter>
+        <ownedParameter xmi:id="_FYtosJQmEe63E_t-pLVrFw" name="description" type="_RYjTQJQwEe63E_t-pLVrFw"/>
+        <ownedParameter xmi:id="_KcpcoJQmEe63E_t-pLVrFw" name="livre" type="_otah4JQlEe63E_t-pLVrFw" direction="return"/>
+      </ownedOperation>
+      <ownedOperation xmi:id="_jo1VIJNeEe6BbNzE7q8tfw" name="editLivre">
+        <ownedParameter xmi:id="_Sv5FMJQmEe63E_t-pLVrFw" name="livre" type="_otah4JQlEe63E_t-pLVrFw"/>
+        <ownedParameter xmi:id="_WY9doJQmEe63E_t-pLVrFw" name="" direction="return">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#boolean"/>
+        </ownedParameter>
+      </ownedOperation>
+      <ownedOperation xmi:id="_k_lFoJNeEe6BbNzE7q8tfw" name="delLivre">
+        <ownedParameter xmi:id="_d7NHEJQmEe63E_t-pLVrFw" name="livre" type="_otah4JQlEe63E_t-pLVrFw"/>
+        <ownedParameter xmi:id="_gEPQIJQmEe63E_t-pLVrFw" name="" direction="return">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#boolean"/>
+        </ownedParameter>
+      </ownedOperation>
+      <ownedOperation xmi:id="_srdzQJNeEe6BbNzE7q8tfw" name="createSec">
+        <ownedParameter xmi:id="_jAlFcJQmEe63E_t-pLVrFw" name="name">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </ownedParameter>
+        <ownedParameter xmi:id="_ZiCR8JQnEe63E_t-pLVrFw" name="listEnc"/>
+        <ownedParameter xmi:id="_d7io0JQnEe63E_t-pLVrFw" name="listObj"/>
+        <ownedParameter xmi:id="_gnDM0JQnEe63E_t-pLVrFw" name="description" type="_RYjTQJQwEe63E_t-pLVrFw"/>
+        <ownedParameter xmi:id="_ovNmwJQnEe63E_t-pLVrFw" name="section" type="_uuwuYJQnEe63E_t-pLVrFw" direction="return"/>
+      </ownedOperation>
+      <ownedOperation xmi:id="_hXAVEJNhEe6BbNzE7q8tfw" name="editSec">
+        <ownedParameter xmi:id="_8EFwwJQnEe63E_t-pLVrFw" name="section" type="_uuwuYJQnEe63E_t-pLVrFw"/>
+        <ownedParameter xmi:id="_KjI0QJQoEe63E_t-pLVrFw" name="" direction="return">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#boolean"/>
+        </ownedParameter>
+      </ownedOperation>
+      <ownedOperation xmi:id="_cbJfEJNhEe6BbNzE7q8tfw" name="delSec">
+        <ownedParameter xmi:id="_ORGTwJQoEe63E_t-pLVrFw" name="section" type="_uuwuYJQnEe63E_t-pLVrFw"/>
+        <ownedParameter xmi:id="_TMsrEJQoEe63E_t-pLVrFw" name="" direction="return">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#boolean"/>
+        </ownedParameter>
+      </ownedOperation>
+      <ownedOperation xmi:id="_qwlTkJNhEe6BbNzE7q8tfw" name="createEnc">
+        <ownedParameter xmi:id="_XwY4sJQoEe63E_t-pLVrFw" name="name">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </ownedParameter>
+        <ownedParameter xmi:id="_oRsu4JQoEe63E_t-pLVrFw" name="toSec" type="_uuwuYJQnEe63E_t-pLVrFw"/>
+        <ownedParameter xmi:id="_2BgGwJQoEe63E_t-pLVrFw" name="conditions"/>
+        <ownedParameter xmi:id="_4x_4cJQoEe63E_t-pLVrFw" name="desciption" type="_RYjTQJQwEe63E_t-pLVrFw"/>
+        <ownedParameter xmi:id="_8RqdQJQoEe63E_t-pLVrFw" name="enchainement" type="_0FGg8JQnEe63E_t-pLVrFw" direction="return"/>
+      </ownedOperation>
+      <ownedOperation xmi:id="_tc8MIJNhEe6BbNzE7q8tfw" name="editEnc">
+        <ownedParameter xmi:id="_UoeQEJQpEe63E_t-pLVrFw" name="enchainement" type="_0FGg8JQnEe63E_t-pLVrFw"/>
+        <ownedParameter xmi:id="_sQWgUJQpEe63E_t-pLVrFw" name="" direction="return">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#boolean"/>
+        </ownedParameter>
+      </ownedOperation>
+      <ownedOperation xmi:id="_xfJdUJNhEe6BbNzE7q8tfw" name="delEnc">
+        <ownedParameter xmi:id="_wAPScJQpEe63E_t-pLVrFw" name="enchainement" type="_0FGg8JQnEe63E_t-pLVrFw"/>
+      </ownedOperation>
+      <ownedOperation xmi:id="_jfcoQJNhEe6BbNzE7q8tfw" name="createObj">
+        <ownedParameter xmi:id="_1rIYsJQpEe63E_t-pLVrFw" name="name">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </ownedParameter>
+        <ownedParameter xmi:id="_4JPZ4JQpEe63E_t-pLVrFw" name="description" type="_RYjTQJQwEe63E_t-pLVrFw"/>
+        <ownedParameter xmi:id="_9w6NAJQpEe63E_t-pLVrFw" name="objet" type="_6JOmkJQnEe63E_t-pLVrFw" direction="return"/>
+      </ownedOperation>
+      <ownedOperation xmi:id="_m2zloJNhEe6BbNzE7q8tfw" name="editObj">
+        <ownedParameter xmi:id="_DK5wgJQqEe63E_t-pLVrFw" name="objet" type="_6JOmkJQnEe63E_t-pLVrFw"/>
+        <ownedParameter xmi:id="_FDrQAJQqEe63E_t-pLVrFw" name="" direction="return">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#boolean"/>
+        </ownedParameter>
+      </ownedOperation>
+      <ownedOperation xmi:id="_oYc-kJNhEe6BbNzE7q8tfw" name="delObj">
+        <ownedParameter xmi:id="_j_2NQJQqEe63E_t-pLVrFw" name="objet" type="_6JOmkJQnEe63E_t-pLVrFw"/>
+        <ownedParameter xmi:id="_mWt-AJQqEe63E_t-pLVrFw" name="" direction="return">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#boolean"/>
+        </ownedParameter>
+      </ownedOperation>
+      <ownedOperation xmi:id="_66bo0JNdEe6BbNzE7q8tfw" name="loadLivre">
+        <ownedParameter xmi:id="_G7rFsJQlEe63E_t-pLVrFw" name="path">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </ownedParameter>
+        <ownedParameter xmi:id="_M86PYJQlEe63E_t-pLVrFw" name="livre" type="_otah4JQlEe63E_t-pLVrFw" direction="return"/>
+      </ownedOperation>
+      <ownedOperation xmi:id="_9Ua_AJNdEe6BbNzE7q8tfw" name="saveLivre">
+        <ownedParameter xmi:id="_Zfwr8JQlEe63E_t-pLVrFw" name="livre" type="_otah4JQlEe63E_t-pLVrFw"/>
+        <ownedParameter xmi:id="_gj6VEJQuEe63E_t-pLVrFw" name="path">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </ownedParameter>
+        <ownedParameter xmi:id="_boc2wJQlEe63E_t-pLVrFw" name="" direction="return">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#boolean"/>
+        </ownedParameter>
+      </ownedOperation>
+      <ownedOperation xmi:id="__UA4MJNdEe6BbNzE7q8tfw" name="closeLivre">
+        <ownedParameter xmi:id="_g4xg4JQlEe63E_t-pLVrFw" name="livre" type="_otah4JQlEe63E_t-pLVrFw"/>
+        <ownedParameter xmi:id="_kKg-cJQlEe63E_t-pLVrFw" name="" direction="return">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#boolean"/>
+        </ownedParameter>
+      </ownedOperation>
+      <ownedOperation xmi:id="_TBGXsJQrEe63E_t-pLVrFw" name="generatePDF">
+        <ownedParameter xmi:id="_dJrKMJQrEe63E_t-pLVrFw" name="livre" type="_otah4JQlEe63E_t-pLVrFw"/>
+        <ownedParameter xmi:id="_ihu0AJQrEe63E_t-pLVrFw" name="" direction="return">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#boolean"/>
+        </ownedParameter>
+      </ownedOperation>
+      <ownedOperation xmi:id="_VpU-MJQrEe63E_t-pLVrFw" name="generateHTML">
+        <ownedParameter xmi:id="_9Hl4UJQrEe63E_t-pLVrFw" name="livre" type="_otah4JQlEe63E_t-pLVrFw"/>
+        <ownedParameter xmi:id="__BCtQJQrEe63E_t-pLVrFw" name="" direction="return">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#boolean"/>
+        </ownedParameter>
+      </ownedOperation>
+      <ownedOperation xmi:id="_ZkS-8JQrEe63E_t-pLVrFw" name="analyse">
+        <ownedParameter xmi:id="_B6e_kJQsEe63E_t-pLVrFw" name="livre" type="_otah4JQlEe63E_t-pLVrFw"/>
+        <ownedParameter xmi:id="_EG7B8JQsEe63E_t-pLVrFw" name="" direction="return">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#boolean"/>
+        </ownedParameter>
+      </ownedOperation>
     </packagedElement>
     <packagedElement xmi:type="uml:Interface" xmi:id="_AmJ9YIhZEe6Uf5xpeIZdrw" name="IGenPDF">
       <ownedOperation xmi:id="_s2FykIhgEe6Uf5xpeIZdrw" name="genPDF">
-        <ownedParameter xmi:id="_5KDpIIhhEe6Uf5xpeIZdrw" name="livre"/>
+        <ownedParameter xmi:id="_5KDpIIhhEe6Uf5xpeIZdrw" name="livre" type="_otah4JQlEe63E_t-pLVrFw"/>
         <ownedParameter xmi:id="_OzmFQJNWEe6BbNzE7q8tfw" name="" direction="return">
           <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#boolean"/>
         </ownedParameter>
@@ -4918,7 +5022,7 @@
     </packagedElement>
     <packagedElement xmi:type="uml:Interface" xmi:id="_3X3zcIhZEe6Uf5xpeIZdrw" name="IGenHTML">
       <ownedOperation xmi:id="_p30qoIhgEe6Uf5xpeIZdrw" name="genHTML">
-        <ownedParameter xmi:id="_x4SEoIhhEe6Uf5xpeIZdrw" name="livre"/>
+        <ownedParameter xmi:id="_x4SEoIhhEe6Uf5xpeIZdrw" name="livre" type="_otah4JQlEe63E_t-pLVrFw"/>
         <ownedParameter xmi:id="_U4_WMJNWEe6BbNzE7q8tfw" name="" direction="return">
           <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#boolean"/>
         </ownedParameter>
@@ -4926,27 +5030,30 @@
     </packagedElement>
     <packagedElement xmi:type="uml:Interface" xmi:id="_7_YKEIhZEe6Uf5xpeIZdrw" name="IAnalyse">
       <ownedOperation xmi:id="_aOV0UIhgEe6Uf5xpeIZdrw" name="analyse">
-        <ownedParameter xmi:id="_Xan6EIhhEe6Uf5xpeIZdrw" name="livre"/>
+        <ownedParameter xmi:id="_Xan6EIhhEe6Uf5xpeIZdrw" name="livre" type="_otah4JQlEe63E_t-pLVrFw"/>
         <ownedParameter xmi:id="_mQPDcIhhEe6Uf5xpeIZdrw" name="" direction="return">
           <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#boolean"/>
         </ownedParameter>
       </ownedOperation>
       <ownedOperation xmi:id="_CMFAkJNVEe6BbNzE7q8tfw" name="display">
-        <ownedParameter xmi:id="_cZAAcJNVEe6BbNzE7q8tfw" name="livre"/>
+        <ownedParameter xmi:id="_cZAAcJNVEe6BbNzE7q8tfw" name="livre" type="_otah4JQlEe63E_t-pLVrFw"/>
       </ownedOperation>
       <ownedOperation xmi:id="_FvsRQJNVEe6BbNzE7q8tfw" name="update">
-        <ownedParameter xmi:id="_jzgqMJNVEe6BbNzE7q8tfw" name="livre"/>
+        <ownedParameter xmi:id="_jzgqMJNVEe6BbNzE7q8tfw" name="livre" type="_otah4JQlEe63E_t-pLVrFw"/>
       </ownedOperation>
     </packagedElement>
     <packagedElement xmi:type="uml:Interface" xmi:id="_Aqz-cIhaEe6Uf5xpeIZdrw" name="ISave">
       <ownedOperation xmi:id="_vw2TgIhgEe6Uf5xpeIZdrw" name="save">
-        <ownedParameter xmi:id="_DKfMQIhiEe6Uf5xpeIZdrw" name="livre"/>
+        <ownedParameter xmi:id="_DKfMQIhiEe6Uf5xpeIZdrw" name="livre" type="_otah4JQlEe63E_t-pLVrFw"/>
+        <ownedParameter xmi:id="_j6vuAJQuEe63E_t-pLVrFw" name="path">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </ownedParameter>
         <ownedParameter xmi:id="_itVP0JNWEe6BbNzE7q8tfw" name="" direction="return">
           <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#boolean"/>
         </ownedParameter>
       </ownedOperation>
       <ownedOperation xmi:id="_ygvwIJNUEe6BbNzE7q8tfw" name="close">
-        <ownedParameter xmi:id="_bffwIJNWEe6BbNzE7q8tfw" name="livre"/>
+        <ownedParameter xmi:id="_bffwIJNWEe6BbNzE7q8tfw" name="livre" type="_otah4JQlEe63E_t-pLVrFw"/>
         <ownedParameter xmi:id="_e_WiMJNWEe6BbNzE7q8tfw" name="" direction="return">
           <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#boolean"/>
         </ownedParameter>
@@ -4955,9 +5062,7 @@
         <ownedParameter xmi:id="_GEnbEIhiEe6Uf5xpeIZdrw" name="path">
           <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
         </ownedParameter>
-        <ownedParameter xmi:id="_nix70JNWEe6BbNzE7q8tfw" name="" direction="return">
-          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#boolean"/>
-        </ownedParameter>
+        <ownedParameter xmi:id="_nix70JNWEe6BbNzE7q8tfw" name="livre" type="_otah4JQlEe63E_t-pLVrFw" direction="return"/>
       </ownedOperation>
     </packagedElement>
     <packagedElement xmi:type="uml:Usage" xmi:id="_lSrTMIhaEe6Uf5xpeIZdrw" supplier="_Aqz-cIhaEe6Uf5xpeIZdrw" client="_zcegcHJWEe6XuMYCuDbMzQ"/>
@@ -4965,6 +5070,11 @@
     <packagedElement xmi:type="uml:Usage" xmi:id="_uwXVoIhaEe6Uf5xpeIZdrw" supplier="_3X3zcIhZEe6Uf5xpeIZdrw" client="_zcegcHJWEe6XuMYCuDbMzQ"/>
     <packagedElement xmi:type="uml:Usage" xmi:id="_9xt08IhaEe6Uf5xpeIZdrw" supplier="_jg--AIhYEe6Uf5xpeIZdrw" client="_D5vkIHJXEe6XuMYCuDbMzQ"/>
     <packagedElement xmi:type="uml:Interface" xmi:id="_XI_GEJNaEe6BbNzE7q8tfw" name="IFactory"/>
+    <packagedElement xmi:type="uml:Interface" xmi:id="_otah4JQlEe63E_t-pLVrFw" name="ILivre"/>
+    <packagedElement xmi:type="uml:Interface" xmi:id="_uuwuYJQnEe63E_t-pLVrFw" name="ISection"/>
+    <packagedElement xmi:type="uml:Interface" xmi:id="_0FGg8JQnEe63E_t-pLVrFw" name="IEnchainement"/>
+    <packagedElement xmi:type="uml:Interface" xmi:id="_6JOmkJQnEe63E_t-pLVrFw" name="IObjet"/>
+    <packagedElement xmi:type="uml:Interface" xmi:id="_RYjTQJQwEe63E_t-pLVrFw" name="IDescription"/>
     <profileApplication xmi:id="_FZ16ZnJWEe6XuMYCuDbMzQ">
       <eAnnotations xmi:id="_FZ16Z3JWEe6XuMYCuDbMzQ" source="http://www.eclipse.org/uml2/2.0.0/UML">
         <references xmi:type="ecore:EPackage" href="pathmap://UML_PROFILES/Standard.profile.uml#_yzU58YinEdqtvbnfB2L_5w"/>
